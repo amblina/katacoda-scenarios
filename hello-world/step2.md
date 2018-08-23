@@ -1,7 +1,7 @@
 In the previous step we learned about ``pwd`` which tells us
 which folder we are currently in. Let's continuing exploring.
 
-##### Listing contents of directories
+#### 2.1 Listing contents of directories
 Next we will look at listing contents of directories.
 
 This is done with a command `ls` which lists the contents of a directory.
@@ -12,7 +12,7 @@ Q: You will see nothing returned - why?
 
 A: This folder is empty!
 
-##### Creating directories
+#### 2.2 Creating directories
 Let's create some directories:
 
 ``mkdir my_data``{{execute}}
@@ -29,6 +29,6 @@ You can create a directory with any name you want by writing the following:
 
 Note: don't create directory names containing spaces!
 
-####Task
+##Task 2
 
 1. Create a directory called `refs`
