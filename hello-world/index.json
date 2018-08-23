@@ -18,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nDont worry you wont break this!\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nDon't worry you won't break this!\u001b[m\r\n"
   },
   "backend": {
     "imageid": "bash"
