@@ -31,4 +31,4 @@ Note: don't create directory names containing spaces!
 
 ## Task:
 
-1. Create a directory called `refs`
+1 Create a directory called `refs`
