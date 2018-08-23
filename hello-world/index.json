@@ -4,10 +4,12 @@
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run your first command!",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Step 1 - Run your first command!",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
