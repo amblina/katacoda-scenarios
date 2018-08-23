@@ -8,6 +8,10 @@
       {
         "title": "Step 1 - Run your first command!",
         "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Creating folders",
+        "text": "step2.md"
       }
     ],
     "intro": {
