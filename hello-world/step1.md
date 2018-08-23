@@ -22,10 +22,8 @@ This will tell you where you are in the filesystem.
 
 ### Task
 
-Find out which directory (folder) you are in currently:
+1. Find out which directory (folder) you are in currently: 
 
-`pwd`{{execute}}
 
 You should see the following output:
-
 `/home/scrapbook/tutorial`
