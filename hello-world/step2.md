@@ -1,13 +1,16 @@
-##### Where am I?
 In the previous step we learned about ``pwd`` which tells us
-which folder we are currently in.
+which folder we are currently in. Let's continuing exploring.
 
 ##### Listing contents of directories
-Next we will look at listing contents of directories
+Next we will look at listing contents of directories.
+
+This is done with a command `ls` which lists the contents of a directory.
 
 ``ls``{{execute}}
 
-You will see nothing returned - there is nothing!
+Q: You will see nothing returned - why?
+
+A: This folder is empty!
 
 ##### Creating directories
 Let's create some directories:
