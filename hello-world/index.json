@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Command-line tutorial",
+  "description": "This is a test tutorial",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Run your first command!",
       "text": "step1.md"
     }],
     "intro": {
