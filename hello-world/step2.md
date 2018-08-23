@@ -29,6 +29,6 @@ You can create a directory with any name you want by writing the following:
 
 Note: don't create directory names containing spaces!
 
-##Task 2
+## Task 2
 
 1. Create a directory called `refs`
