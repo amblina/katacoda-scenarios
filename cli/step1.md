@@ -20,6 +20,8 @@ and press enter.  Let's try running the ``pwd`` command!
  
 This will tell you where you are in the filesystem.
 
+`pwd`{{execute}}
+
 Don't worry about running commands in this environment - you can't break 
 anything here!
 
