@@ -7,7 +7,7 @@ the right.
 Prompts will look slightly different on different systems but for this 
 tutorial this will be:
 
-`>`
+`>` or `$`
 
 To instruct your terminal to do something, you need to enter specific commands 
 and press enter.  Let's try running the ``pwd`` command!
@@ -32,6 +32,7 @@ Try running a command that doesn't exist:
 You should get the following message telling you what you already know:
 
 `bash: hello: command not found`
+
 
 
 ### Task
