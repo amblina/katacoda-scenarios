@@ -29,6 +29,17 @@ You can create a directory with any name you want by writing the following:
 
 Note: don't create directory names containing spaces!
 
+Now let's try creating the same directory twice - what happens?
+
+`mkdir my_data`{{execute}}
+
+You will see a sensible message telling you why this isn't possible:
+
+`mkdir: cannot create directory 'my_data': File exists`
+
+This error message says that the program `mkdir` is unable to create this 
+directory and tells you why: the file (folder) already exists!
+
 ## Task:
 
 1 Create a directory called `refs`
