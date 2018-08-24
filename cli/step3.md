@@ -3,6 +3,7 @@ So now you have created some directories!
 Let's check where we are and what is in our current directory:
 
 ``pwd``{{execute}}
+
 ``ls``{{execute}}
 
 Let's look at how to move around the file system, first let's create a
@@ -22,7 +23,9 @@ run:
 Now lets check where we are, then **c**ange **d**irectory into `step3`!
 
 `pwd`{{execute}}
+
 `cd step3`{{execute}}
+
 `pwd`{{execute}}
 
 Now if you run `ls`{{execute}} in this folder you'll see that it's empty -
@@ -38,9 +41,13 @@ before  we moved into the subdirectory?
 You can use the shorthand `..` which means "the directory above"
 
 `pwd`{{execute}}
+
 `cd step3`{{execute}}
+
 `pwd`{{execute}}
+
 `cd ..`{{execute}}
+
 `pwd`{{execute}}
 
 What about if you wanted to move two folders above? You can use `../../`!
@@ -48,11 +55,17 @@ What about if you wanted to move two folders above? You can use `../../`!
 Let's try this:
 
 `cd /home/scrapbook/tutorial`{{execute}}
+
 `pwd`{{execute}}
+
 `mkdir step3/my_folder`{{execute}}
+
 `cd step3/my_folder`{{execute}}
+
 `pwd`{{execute}}
+
 `cd ../../`{{execute}}
+
 `pwd`{{execute}}
 
 ### Task
