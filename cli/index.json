@@ -10,8 +10,16 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Creating folders",
+        "title": "Step 2 - Creating directories",
         "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Changing directory",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Something else",
+        "text": "step4.md"
       }
     ],
     "intro": {
