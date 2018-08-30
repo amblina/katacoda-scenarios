@@ -1,8 +1,8 @@
 {
   "title": "Command-line tutorial",
-  "description": "This is a test tutorial",
+  "description": "This is part 1!",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
