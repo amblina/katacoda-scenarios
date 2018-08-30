@@ -4,11 +4,17 @@
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
-    "assets":{
-      "client":[
+    "assets": {
+      "client": [
         {
-          "file": "sample.fastq",
-          "target": "/home/scrapbook/tutorial/data/sample.fastq"
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "config.yml",
+          "target": "~/"
         }
       ]
     },
