@@ -13,7 +13,7 @@ directory..
 
 Now when you `ls`{{execute}} you should be able to see the `step3` directory.
 
-#### 3.1 Chanding directory with `cd`
+#### 3.1 Changing directory with `cd`
 
 The `cd` command let's you **c**hange **d**irectory. To run this command you
 run:
