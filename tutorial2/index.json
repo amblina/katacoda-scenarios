@@ -11,12 +11,6 @@
           "target": "~/"
         }
       ],
-      "host01": [
-        {
-          "file": "config.yml",
-          "target": "~/"
-        }
-      ]
     },
     "steps": [
       {
