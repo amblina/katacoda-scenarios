@@ -10,7 +10,7 @@
           "file": "extra/sample.fastq",
           "target": "~/"
         }
-      ],
+      ]
     },
     "steps": [
       {
