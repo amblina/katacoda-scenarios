@@ -8,8 +8,8 @@
       "client":[
         {
           "file": "sample.fastq",
-          "target": "/home/scrapbook/tutorial/data/sample.fastq",
-        },
+          "target": "/home/scrapbook/tutorial/data/sample.fastq"
+        }
       ]
     },
     "steps": [
