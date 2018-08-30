@@ -15,12 +15,12 @@ Now when you `ls`{{execute}} you should be able to see the `step3` directory.
 
 #### 3.1 Chanding directory with `cd`
 
-The `cd` command let's you **c**ange **d**irectory. To run this command you
+The `cd` command let's you **c**hange **d**irectory. To run this command you
 run:
 
 `cd <path/to/where/you/want/to/go>`
 
-Now lets check where we are, then **c**ange **d**irectory into `step3`!
+Now lets check where we are, then **c**hange **d**irectory into `step3`!
 
 `pwd`{{execute}}
 
@@ -71,5 +71,7 @@ Let's try this:
 ### Task
 
 1) Create a folder in the step3 folder called `test`
+
 2) List the contents of this new `test` folder
+
 3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the contents of the folder above
