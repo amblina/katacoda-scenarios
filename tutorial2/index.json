@@ -1,6 +1,8 @@
 {
   "title": "Tutorial 2: Reading and filtering files",
   "description": "Beginner tutorial for reading and filtering files on the command line.",
+  "difficulty": "beginner",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
@@ -17,16 +19,18 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "credits": "Amber Wright"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "bash"
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nDon't worry you won't break this!\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "bash"
   }
 }
