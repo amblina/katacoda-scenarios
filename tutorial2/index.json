@@ -7,7 +7,7 @@
     "assets": {
       "client": [
         {
-          "file": "docker-compose.yml",
+          "file": "extra/sample.fastq",
           "target": "~/"
         }
       ],
