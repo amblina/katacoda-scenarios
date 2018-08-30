@@ -4,6 +4,14 @@
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
+    "assets":{
+      "client":[
+        {
+          "file": "sample.fastq",
+          "target": "/home/scrapbook/tutorial/data/sample.fastq",
+        },
+      ]
+    },
     "steps": [
       {
         "title": "Step 1",
