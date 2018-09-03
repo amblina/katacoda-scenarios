@@ -7,8 +7,8 @@
     "assets": {
       "client": [
         {
-          "file": "sample.fastq",
-          "target": "/home/scrapbook/tutorial/sample.fastq"
+          "file": "*",
+          "target": "/"
         }
       ]
     },
