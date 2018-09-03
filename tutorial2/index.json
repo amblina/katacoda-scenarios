@@ -8,7 +8,7 @@
       "client": [
         {
           "file": "*",
-          "target": "/"
+          "target": "/home/scrapbook/tutorial"
         }
       ]
     },
