@@ -5,7 +5,7 @@
   "time": "5 minutes",
   "details": {
     "assets": {
-      "client": [
+      "host01": [
         {
           "file": "extra/sample.fastq",
           "target": "/home/scrapbook/tutorial/sample.fastq"
