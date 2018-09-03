@@ -60,6 +60,15 @@ third line
 fourth line
 fifth line
 ```
+It just prints (or **cats**) the contents of the two files one after the other.
+
+Now how about running cat on it's own?
+
+`cat`{{execute}}
+
+Hmm, nothing is going? The command isn't ending? How do we stop it?
+
+`^C`{{execute}}
 
 
 
