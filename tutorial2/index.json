@@ -7,7 +7,7 @@
     "assets": {
       "host01": [
         {
-          "file": "extra/sample.fastq",
+          "file": "sample.fastq",
           "target": "/home/scrapbook/tutorial/sample.fastq"
         }
       ]
