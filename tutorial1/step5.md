@@ -72,24 +72,24 @@ from the man page:
 
 Let's exit the man page:
 
-`q`{execute}
+`q`{{execute}}
 
 Now we're back on the command line:
 
-`ls -l`{execute}
+`ls -l`{{execute}}
 
 This should return your results in a different format.  Now try running it 
 with a filepath - remember filepath MUST go after OPTIONS.
 
-`ls -l /home/scrapbook/tutorial`{execute}
+`ls -l /home/scrapbook/tutorial`{{execute}}
 
 If you remember from the man page we should be able to add multiple paths to 
 this.
 
-`ls -l /home/scrapbook/tutorial /home/scrapbook/`{execute}
+`ls -l /home/scrapbook/tutorial /home/scrapbook/`{{execute}}
 
 What happens if we give the same path argument twice?
 
-`ls -l /home/scrapbook /home/scrapbook`{execute}
+`ls -l /home/scrapbook /home/scrapbook`{{execute}}
 
 
