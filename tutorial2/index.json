@@ -14,15 +14,15 @@
     },
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1: Reading a file",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2: Reading a bit of a file",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3: Searching a file",
         "text": "step3.md"
       }
     ],
