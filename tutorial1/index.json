@@ -20,6 +20,10 @@
       {
         "title": "Step 4 - Something else",
         "text": "step4.md"
+      },
+      {
+        "title": "Step 5 - Commands and arguments",
+        "text": "step5.md"
       }
     ],
     "intro": {
