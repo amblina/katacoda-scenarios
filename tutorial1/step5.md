@@ -86,7 +86,7 @@ with a filepath - remember filepath MUST go after OPTIONS.
 If you remember from the man page we should be able to add multiple paths to 
 this.
 
-`ls -l /home/scrapbook/tutorial /home/scrapbook/`{{execute}}
+`ls -l /home /home/scrapbook/`{{execute}}
 
 What happens if we give the same path argument twice?
 
