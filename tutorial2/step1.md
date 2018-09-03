@@ -68,8 +68,15 @@ Now how about running cat on it's own?
 
 Hmm, nothing is going? The command isn't ending? How do we stop it?
 
-`^C`{{execute}}
+`ctrl + c`
 
+This will interrupt this command - what was happening? It was waiting for some 
+input to cat to screen.  We will talk about this later in this tutorial so keep 
+this question in your mind!
+
+### Questions
+
+1. Print to screen `sample.fastq` twice in one command.
 
 
 
