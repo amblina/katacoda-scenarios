@@ -41,3 +41,12 @@ Try running this command on ``numbers.txt``.
 2. Run `wc` on `numbers.txt` to identify the length of the longest number.
 3. Run `wc` on `numbers.txt` to identify the number of full numbers in the file.
 4. Run `wc` on `numbers.txt` to identify the number of characters in the files.
+
+<details>
+    <summary>Answers</summary>
+    
+    Something Something Something
+    ```
+    Something
+    ```
+</details>
