@@ -1,1 +1,1 @@
-echo "hello" > hello.txt
+echo "hello" > /home/scrapbook/tutorial/hello.txt
