@@ -36,7 +36,8 @@ Description
 Try running this command on ``numbers.txt``.
 
 
-####Challenges
+#### Challenges
+
 1. Run `wc` on `numbers.txt` to identify the number of lines in the file.
     <details>
         <summary>Hint</summary>
