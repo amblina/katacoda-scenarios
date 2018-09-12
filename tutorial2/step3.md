@@ -38,42 +38,49 @@ Try running this command on ``numbers.txt``.
 
 #### Challenges
 
-1. Run `wc` on `numbers.txt` to identify the number of lines in the file.
-<details>
-    <summary>Hint</summary>
-        Take a look at the manpage for wc again, look at the `-l` argument
-</details>
-<details>
-    <summary>Answer</summary>
-        `wc -l numbers.txt`{{execute}}
-</details>
-
-2. Run `wc` on `numbers.txt` to identify the length of the longest number.
-<details>
-    <summary>Hint</summary>
-        Take a look at the manpage for wc again, look at the `-L` argument
-</details>
-<details>
-    <summary>Answer</summary>
-        `wc -L numbers.txt`{{execute}}
-</details>
-
-3. Run `wc` on `numbers.txt` to identify the number of full numbers in the file.
-<details>
-    <summary>Hint</summary>
-        Take a look at the manpage for wc again, look at the `-w` argument
-</details>
-<details>
-    <summary>Answer</summary>
-        `wc -w numbers.txt`{{execute}}
-</details>
-
-4. Run `wc` on `numbers.txt` to identify the number of characters in the files.
-<details>
-    <summary>Hint</summary>
-        Take a look at the manpage for wc again, look at the `-m` argument
-</details>
-<details>
-    <summary>Answer</summary>
-        `wc -m numbers.txt`{{execute}}
-</details>
+<ol>
+    <li> 
+        Run `wc` on `numbers.txt` to identify the number of lines in the file.
+        <details>
+            <summary>Hint</summary>
+                Take a look at the manpage for wc again, look at the `-l` argument
+        </details>
+        <details>
+            <summary>Answer</summary>
+                `wc -l numbers.txt`{{execute}}
+        </details>
+    </li>
+    <li>
+        2. Run `wc` on `numbers.txt` to identify the length of the longest number.
+        <details>
+            <summary>Hint</summary>
+                Take a look at the manpage for wc again, look at the `-L` argument
+        </details>
+        <details>
+            <summary>Answer</summary>
+                `wc -L numbers.txt`{{execute}}
+        </details>
+    </li>
+    <li>
+        3. Run `wc` on `numbers.txt` to identify the number of full numbers in the file.
+        <details>
+            <summary>Hint</summary>
+                Take a look at the manpage for wc again, look at the `-w` argument
+        </details>
+        <details>
+            <summary>Answer</summary>
+                `wc -w numbers.txt`{{execute}}
+        </details>
+    </li>
+    <li>
+        4. Run `wc` on `numbers.txt` to identify the number of characters in the files.
+        <details>
+            <summary>Hint</summary>
+                Take a look at the manpage for wc again, look at the `-m` argument
+        </details>
+        <details>
+            <summary>Answer</summary>
+                `wc -m numbers.txt`{{execute}}
+        </details>
+    </li>
+ </ol>
