@@ -27,7 +27,7 @@ you think that the command will **append** the output to the file?
 
 `head -n 20 numbers.txt > first_lines.txt`{{execute}}
 
-`wc first_lines.txt`{{execute}}
+`wc -l first_lines.txt`{{execute}}
 
 The file should have 20 lines - so the file has been replaced. This is 
 something to bear in mind when you're redirecting files!
@@ -40,7 +40,7 @@ Let's repeat what we did before:
 ```
 head numbers.txt > first_lines.txt
 head -n 20 numbers.txt >> first_lines.txt
-wc first_lines.txt
+wc -l first_lines.txt
 ```
 
 #### Challenges
