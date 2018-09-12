@@ -1,3 +1,9 @@
+So we've been looking at some useful commands for reading files: `head`, `tail` 
+and `cat`.  We've looked up the manpage for each of these commands using the 
+`man` command. We have then worked together to find out what each command does 
+and how to use it using the manual.  Now let's try out a new command in the 
+same way:
+
 Another useful utility is `wc`. Let's take a look at the man page:
 
 ``man wc``{{execute}}
@@ -33,7 +39,9 @@ Description
         output version information and exit
 ```
 
-Try running this command on ``numbers.txt``.
+Try running this command on ``numbers.txt``. What does the output look like?
+
+Now try reading the man page and trying out the challenges below:
 
 
 #### Challenges
