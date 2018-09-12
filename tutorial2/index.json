@@ -28,6 +28,10 @@
       {
         "title": "Step 4: Redirecting output",
         "text": "step4.md"
+      },
+      {
+        "title": "Step 5: Pipes",
+        "text": "step5.md"
       }
     ],
     "intro": {
