@@ -38,6 +38,15 @@ Try running this command on ``numbers.txt``.
 
 ####Challenges
 1. Run `wc` on `numbers.txt` to identify the number of lines in the file.
+    <details>
+        <summary>Hint</summary>
+            Take a look at the manpage for wc again, look at the `-l` argument
+    </details>
+    <details>
+        <summary>Answer</summary>
+            `wc -l numbers.txt`{{execute}}
+    </details>
+
 2. Run `wc` on `numbers.txt` to identify the length of the longest number.
 3. Run `wc` on `numbers.txt` to identify the number of full numbers in the file.
 4. Run `wc` on `numbers.txt` to identify the number of characters in the files.
