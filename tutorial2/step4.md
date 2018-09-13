@@ -49,5 +49,5 @@ wc -l first_lines.txt
 
 2. Create a file that contains the first 10 lines of `numbers.txt` 5 times.
 
-3. Create a file that contains teh first 10 lines and last 10 lines 
+3. Create a file that contains the first 10 lines and last 10 lines 
 of `numbers.txt`
