@@ -52,3 +52,18 @@ New and improved with pipe:
 `head numbers.txt | wc -l`{{execute}}
 
 These commands should get you the same answer.
+
+#### Challenges
+Try finding the answers to these questions with one command with `|`. If you 
+are struggling try and work out individual commands you'd like to run and then 
+try and convert these to only one line.
+
+1. Find out how many characters are in the first 2 lines of `numbers.txt`
+<details>
+    <summary>Hint</summary>
+        If you need to check the manpage for `head` and `wc`.
+</details>
+<details>
+    <summary>Answer</summary>
+        `wc -l numbers.txt`{{execute}}
+</details>
