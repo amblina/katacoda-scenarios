@@ -2,7 +2,7 @@
 
 So, in step 1 we tried running `cat` with no file as an argument and it just 
 sat there doing nothing.  The same thing would happen if you ran `tail` and 
-`head`.  What are they doing?  They're waiting for something to read!  
+`head`.  What are they doing?  They're waiting for something to read! 
 But from where?
 
 Remember when we read the docs for `head` the command SYNOPSIS said that you 
@@ -15,9 +15,10 @@ optional - i.e. the command won't complain if you don't have them. If we read
 the DESCRIPTION we find out why:
 
 ```bash
-Print the first 10 lines of each FILE to standard output. With more than one 
-FILE, precede each with a header giving the file name. With no FILE, or when 
-FILE is -, read standard input.
+Print the first 10 lines of each FILE to standard output. 
+With more than one FILE, precede each with a header giving 
+the file name. With no FILE, or when FILE is -, 
+read standard input.
 ```
 
 So when we don't give `head` a file, it reads from standard input - how do we 
@@ -48,6 +49,6 @@ wc -l first_lines.txt
 
 New and improved with pipe:
 
-`head numbers.txt | wc -l`
+`head numbers.txt | wc -l`{{execute}}
 
 These commands should get you the same answer.
