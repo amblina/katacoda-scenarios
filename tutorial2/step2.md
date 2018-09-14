@@ -61,7 +61,7 @@ just call up the documentation again with the `man` command.
 So this will print the first 5 lines because the `-n` parameter **overrides** 
 the default number of lines to print, 10.
 
-###The `tail` command
+### The `tail` command
 
 OK, so now you're happy with reading the top `n` lines of a file - how do you 
 read the last `n` lines of a file? What's the opposite of `head`? `tail`!
@@ -93,7 +93,7 @@ What about finding the last 5 lines?
 
 Excellent!
 
-####Questions
+#### Questions
 1. How do you print the first line of the numbers file?
 
 2. How do you print the last line of the numbers file?
