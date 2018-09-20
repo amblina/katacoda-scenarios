@@ -36,7 +36,6 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "courseBase.sh",
       "credits": "Amber Wright"
     },
     "finish": {
