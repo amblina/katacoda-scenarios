@@ -1,6 +1,6 @@
 {
   "title": "Tutorial 2: Familiarising yourself with the unfamiliar",
-  "description": "How are commands structured and how to find out how to run unfamiliar commands",
+  "description": "How commands are structured and how to find out how to run unfamiliar commands (man)",
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
