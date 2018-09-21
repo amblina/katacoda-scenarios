@@ -1,20 +1,20 @@
 {
-  "title": "Tutorial 1: Introduction to Command-line",
+  "title": "Tutorial 2: Familiarising yourself with the unfamiliar",
   "description": "This is part 1!",
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Run your first command!",
+        "title": "Step 1 - Review - structure of commands",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Creating directories",
+        "title": "Step 2 - Finding help files",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Changing directory",
+        "title": "Step 3 - Reading a man page",
         "text": "step3.md"
       },
       {
