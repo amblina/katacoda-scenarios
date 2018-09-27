@@ -52,20 +52,35 @@ You can also create multiple directories with one command:
 
 This will create two directories, one called "step_1" and one called "step_2".
 
-**What happens if you create a folder containing spaces?**<details>
+**What happens if you create a folder containing spaces?**
 What happens when you try and create a folder called "My Documents" like this?
 
 `mkdir My Documents`
 
-<summary>Answer</summary>
-   It creates two folders called "Documents" and "My". If you wanted to create 
-   a folder called "My Documents" you would have to write a command that 
-   `mkdir` would not interpret as two separate folders:
-    
-    mkdir "My Documents"
+<details>
+    <summary>Answer</summary>
+       It creates two folders called "Documents" and "My". If you wanted to create 
+       a folder called "My Documents" you would have to write a command that 
+       `mkdir` would not interpret as two separate folders:
+       
+``mkdir "My Documents"``
    
    We do this with quotation marks.
+</details>
+
 
 ## Task:
 
-1 Create a directory called `refs`
+<ol>
+    <li> 
+        Create a directory called `test`
+        <details>
+            <summary>Hint</summary>
+                Remember that `mkdir` can be run with:
+                ``mkdir <name_of_your_directory>``
+        </details>
+        <details>
+            <summary>Answer</summary>
+                `mkdir test`{{execute}}
+        </details>
+    </li>
