@@ -21,7 +21,7 @@ try following the suggestion of adding a filename.
 **Hint:** If you don't want to type out a filepath, you can tap tab to 
 complete the command.
 
-`less ada-lovelace-bio.txt`{{execute}}
+`less ada_lovelace_bio.txt`{{execute}}
 
 This will do something different to the terminal than you've experienced 
 before. You can use the directional arrow on your keyboard ⇩ to scroll 
