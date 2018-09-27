@@ -1,87 +1,95 @@
-Like in tutorial 1, let's check where we are and what is in our directory;
+### THIS WILL BE ADDED TO DIFFERENT TUTORIAL
 
-`pwd`{{execute}}
+Finally let's take a deeper look at the commands we have been running.  We have
+been using `ls` a lot in this tutorial.  First we learned that `ls` can be used 
+to check out what is in your current directory.  Next we learned we could `ls` 
+other directories by specifying an absolute or relative filepath.
 
-`ls`{{execute}}
+Now we are going to learn something new about `ls`. Like many commands `ls` can 
+be customised with arguments.  You've already used an argument with `ls` - the 
+filepath!
 
-These commands should show that we are in:
+`ls my_data`{{execute}}
 
-`/home/scrapbook/tutorial`
+The structure of the command is:
 
-And in this folder we have two files: `sample.fastq` and `small_file.txt`
+`<program> <arguments>`
 
-These are files that we will be playing with during this 
-tutorial.  The fastq file is copied from the fastq example 
-[on wikipedia](https://en.wikipedia.org/wiki/FASTQ_format).
+Note the plural - *arguments* - what other arguments can you use with `ls`? 
+There is a program for that! The **man**ual which you can query using `man`.
 
-Let's read these files!  We will be using a program called `cat`. This program
-con**cat**enates files and prints them onto your screen. Let's give it a go:
+First let's try running `man` with no arguments:
 
-`cat sample.fastq`{{execute}}
+`man`{{execute}}
 
-You will see that the file contains 5 reads which are suspiciously similar to 
-one another (with the exception of the ID line).
+You will see this returned:
 
-Now let's check out `small_file.txt`
+`What manual page do you want?`
 
-`cat small_file.txt`{{execute}}
+This is a sensible question - when you run `man` you should add the program 
+you want to read about as an **argument**.
 
-Let's open the man page for `cat` 
-(remember you can leave the man page by typing `q`):
+`man ls`{{execute}}
 
-`man cat`{{execute}}
+This will automatically open up a help page in the terminal - don't 
+panic! In order to return to the command prompt just press `q` for **q**uit.  
+The help page is opening in the **default** program for opening text files on 
+this machine - a program called `less` - don't worry about this for now - 
+we'll cover this in further tutorials.
 
-````
-NAME         
-       cat - concatenate files and print on the standard output
-SYNOPSIS
-       cat [OPTION]... [FILE]...
-````
+Now check out the [man page](https://en.wikipedia.org/wiki/Man_page) for `ls`.
+You will first see sections called `NAME`, `SYNOPSIS`, `DESCRIPTION`.  Most 
+programs will have these sections filled out describing what the program is and 
+how to use the software.
+
+The man page can be navigated using your directional keys - try pressing the 
+down arrow ⇩.  There are a LOT of options here - don't feel overwhelmed if you 
+don't understand what all these options do by their descriptions alone and you 
+certainly don't need to remember them - that's what the man page 
+(and the internet!) is for.
+
+What I want you to see is the `DESCRIPTION` section which says what we already 
+know: 
+
+`List information about FILEs (the current directory by default)`
+
+Next we will take a look at `SYNOPSIS` which will say how to run `ls`:
+
+`ls [OPTION]... [FILE]...`
+
+This is saying that `ls` takes optional arguments (`OPTIONS`) and a filepath 
+(`FILE`).  It is saying that any `OPTION` needs to be specified before the 
+filepath.  The square brackets mean that both `OPTION` and `FILE` are both 
+optional (don't need to be specified).  We already know this as we have used 
+`ls` on it's own before.  The `...` refers to the fact that you can specify 
+multiple `OPTION` arguments and `FILE` arguments (as long as they are in that 
+option)
+
+OK, we are going to try running `ls` again but with the optional argument `-l` 
+from the man page:
+
+`-l      use a long listing format`
+
+Let's exit the man page:
 
 `q`{{execute}}
 
-OK, so this is telling us that you can run `cat` with any number of optional 
-arguments followed by any number of filepaths.  It also means you can run `cat` 
-with no arguments at all!
+Now we're back on the command line:
 
-Let's give multiple files a go - what do you think will happen?
+`ls -l`{{execute}}
 
-`cat small_file.txt small_file.txt`{{execute}}
+This should return your results in a different format.  Now try running it 
+with a filepath - remember filepath MUST go after OPTIONS.
 
-```
-first line
-second line
-third line
-fourth line
-fifth line
-first line
-second line
-third line
-fourth line
-fifth line
-```
-It just prints (or **cats**) the contents of the two files one after the other.
+`ls -l /home/scrapbook/tutorial`{{execute}}
 
-Now how about running cat on it's own?
+If you remember from the man page we should be able to add multiple paths to 
+this.
 
-`cat`{{execute}}
+`ls -l /home /home/scrapbook/`{{execute}}
 
-Hmm, nothing is going? The command isn't ending? How do we stop it?
+What happens if we give the same path argument twice?
 
-`ctrl + c`
-
-This will interrupt this command - what was happening? It was waiting for some 
-input to cat to screen.  We will talk about this later in this tutorial so keep 
-this question in your mind!
-
-### Questions
-
-1. Print to screen `sample.fastq` twice in one command.
-
-
-
-
-
-
+`ls -l /home/scrapbook /home/scrapbook`{{execute}}
 
 
