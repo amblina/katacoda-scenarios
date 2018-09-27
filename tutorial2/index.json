@@ -4,6 +4,14 @@
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "*",
+          "target": "/home/scrapbook/tutorial"
+        }
+      ]
+    },
     "steps": [
       {
         "title": "Step 1 - Review - structure of commands",
