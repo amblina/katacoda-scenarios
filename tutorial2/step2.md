@@ -30,9 +30,19 @@ The two main sections we are going to look at are the first two sections:
 #### MOVING in less
 
 Let's check out the first two commands given in the 
-`MOVING SECTION`.  
+`MOVING SECTION` along with the help intro.  
 
 ```
+            SUMMARY OF LESS COMMANDS
+            
+Commands marked with * may be preceded by a number, N.
+Notes in parentheses indicate the behaviour if N is given.
+A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+--------
+
+                    MOVING
+
 e ^e j ^N CR    *   Forward one line (or N lines).
 y ^y k ^K ^P    *   Backward one line (or N lines) 
 ```
@@ -47,12 +57,7 @@ forward (down) or backward (up) in a file. Let's try that out:
 `y`{{execute}}
 
 You should see the file move forward then backward by one line.  The other 
-alternatives should also work.  
-
-How do you type `^e`?  A common convention is that 
-the caret symbol or `^` signifies the `ctrl` key on your keyboard.  So `^e` 
-means that you need to hold the `ctrl` button at the same time as `e` - give 
-this a go.
+alternatives should also work.
 
 Both commands have also been marked with `*` this is not an alternative key 
 for moving forward and backward in the file. What it signifies according to 
@@ -63,7 +68,7 @@ can be altered by supplying a number before the command.
 `5e`{{execute}}
 `5y`{{execute}}
 
-You should notice the file moving by 5 lines.
+You should notice the file moving by 5 lines each time rather than 1.
 
 Using this knowledge try and look back at the help file:
 
