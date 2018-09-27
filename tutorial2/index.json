@@ -1,0 +1,44 @@
+{
+  "title": "Tutorial 2: Reading and navigating files",
+  "description": "Beginner guide to less",
+  "difficulty": "beginner",
+  "time": "5 minutes",
+  "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "*",
+          "target": "/home/scrapbook/tutorial"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Step 1 - Opening and closing less",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - How to learn how to use less",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Searching a file using less",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Amber Wright"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nDon't worry you won't break this!\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}

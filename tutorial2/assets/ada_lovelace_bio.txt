@@ -1,0 +1,29 @@
+A gifted mathematician, Ada Lovelace is considered to have written instructions for the first computer program in the mid-1800s.
+Synopsis
+The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace—better known as "Ada Lovelace"—was born in London on December 10, 1815. Ada showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Ada is considered the first computer programmer. Ada died on November 27, 1852.
+
+Early Years
+Ada Lovelace, born as Augusta Ada Byron, was the only legitimate child of the famous poet Lord George Gordon Byron. Lord Byron's marriage to Ada's mother, Lady Anne Isabella Milbanke Byron, was not a happy one. Lady Byron separated from her husband only weeks after their daughter was born. A few months later, Lord Byron left England, and Ada never saw her father again. He died in Greece when Ada was 8 years old.
+
+Ada had an unusual upbringing for an aristocratic girl in the mid-1800s. At her mother's insistence, tutors taught her mathematics and science. Such challenging subjects were not standard fare for women at the time, but her mother believed that engaging in rigorous studies would prevent Lovelace from developing her father's moody and unpredictable temperament. Ada was also forced to lie still for extended periods of time because her mother believed it would help her develop self-control.
+
+From early on, Lovelace showed a talent for numbers and language. She received instruction from William Frend, a social reformer; William King, the family's doctor; and Mary Somerville, a Scottish astronomer and mathematician. Somerville was one of the first women to be admitted into the Royal Astronomical Society.
+
+Babbage and the Analytical Engine
+Around the age of 17, Ada met Charles Babbage, a mathematician and inventor. The pair became friends, and the much older Babbage served as a mentor to Ada. Through Babbage, Ada began studying advanced mathematics with University of London professor Augustus de Morgan.
+
+Ada was fascinated by Babbage's ideas. Known as the father of the computer, he invented the difference engine, which was meant to perform mathematical calculations. Ada got a chance to look at the machine before it was finished, and was captivated by it. Babbage also created plans for another device known as the analytical engine, designed to handle more complex calculations.
+
+Ada was later asked to translate an article on Babbage's analytical engine that had been written by Italian engineer Luigi Federico Menabrea for a Swiss journal. She not only translated the original French text into English, but also added her own thoughts and ideas on the machine. Her notes ended up being three times longer than the original article. Her work was published in 1843, in an English science journal. Ada used only the initials "A.A.L.," for Augusta Ada Lovelace, in the publication.
+
+In her notes, Ada described how codes could be created for the device to handle letters and symbols along with numbers. She also theorized a method for the engine to repeat a series of instructions, a process known as looping that computer programs use today. Ada also offered up other forward-thinking concepts in the article. For her work, Ada is often considered to be the first computer programmer.
+
+Ada's article attracted little attention when she was alive. In her later years, she tried to develop mathematical schemes for winning at gambling. Unfortunately, her schemes failed and put her in financial peril. Ada died from uterine cancer in London on November 27, 1852. She was buried next to her father, in the graveyard of the Church of St. Mary Magdalene in Nottingham, England.
+
+Personal Life
+In 1835, Ada married William King, who became the Earl of Lovelace three years later. She then took the title of Countess of Lovelace. They shared a love of horses and had three children together. From most accounts, he supported his wife's academic endeavors. Ada and her husband socialized with many of the interesting minds of the times, including scientist Michael Faraday and writer Charles Dickens.
+
+Ada's health suffered, however, after a bout of cholera in 1837. She had lingering problems with asthma and her digestive system. Doctors gave her painkillers, such as laudanum and opium, and her personality began to change. She reportedly experienced mood swings and hallucinations.
+
+Legacy
+Ada Lovelace's contributions to the field of computer science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V. Bowden, who republished them in Faster Than Thought: A Symposium on Digital Computing Machines in 1953. Since then, Ada has received many posthumous honors for her work. In 1980, the U.S. Department of Defense named a newly developed computer language "Ada," after Lovelace.
