@@ -14,11 +14,11 @@ and press enter.  Let's try running the ``pwd`` command!
  
  ``pwd`` stands for: 
  
- **p**resent **w**orking **d**irectory
+ **p**rint **w**orking **d**irectory
  
-This will tell you where you are in the filesystem.
+This will tell you where you are in the filesystem, your **working directory**.
 
-`pwd`{{copy}}
+`pwd`{{execute}}
 
 You should see this output:
 
