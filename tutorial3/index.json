@@ -1,6 +1,6 @@
 {
-  "title": "Tutorial 3: Reading and filtering files",
-  "description": "Beginner tutorial for reading and filtering files on the command line.",
+  "title": "Tutorial 3: Familiarising yourself with the unfamiliar",
+  "description": "How commands are structured and how to find out how to run unfamiliar commands (man)",
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
@@ -14,24 +14,20 @@
     },
     "steps": [
       {
-        "title": "Step 1: Reading a file",
+        "title": "Step 1 - Review - structure of commands",
         "text": "step1.md"
       },
       {
-        "title": "Step 2: Reading a bit of a file",
+        "title": "Step 2 - Finding help files",
         "text": "step2.md"
       },
       {
-        "title": "Step 3: Counting with wc",
+        "title": "Step 3 - Reading a man page",
         "text": "step3.md"
       },
       {
-        "title": "Step 4: Redirecting output",
+        "title": "Step 4 - Something else",
         "text": "step4.md"
-      },
-      {
-        "title": "Step 5: Pipes",
-        "text": "step5.md"
       }
     ],
     "intro": {
