@@ -35,7 +35,7 @@ Now let's use *cd* to go back to where we were before:
 
 `cd /home/scrapbook/tutorial`{{execute}}
 
-That's a bit of a mouthfull - what if we'd not checked the directory path
+That's a bit of a mouthful - what if we'd not checked the directory path
 before  we moved into the subdirectory?
 
 You can use the shorthand `..` which means "the directory above"
