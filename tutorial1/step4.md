@@ -48,7 +48,7 @@ You can just type:
 `mkdir test_folder/new_folder`
 
 The command `mkdir` by **default** assumes that you want to create a directory
-relative to where you are now i.e your `pwd`.
+relative to where you are now i.e your **working directory** (`pwd`).
 
 You also learned in the previous section about the shortcut `..` which means 
 "directory above".  This is another way of specifying a relative path.
