@@ -9,7 +9,7 @@ Remember you can **q**uit this file anytime using `q`{{execute}}
 
 Ok, now you're in the file type:
 
-``h``{execute}
+``h``{{execute}}
 
 Like almost everything in unix, this software comes with help - you just need 
 to know how to access it and work out how to interpret it - this is something 
