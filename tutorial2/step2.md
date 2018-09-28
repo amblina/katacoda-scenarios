@@ -21,8 +21,8 @@ that in a minute.
 First, note that it says that `h` brings up the help message 
 and `q` causes `less` to exit.  Along with `q` and `h` are a bunch of other 
 symbols. These are just alternatives.  So instead of using `q` you can type 
-`:q` and it would have the same effect.  This way of writing alternatives is 
-continued down the page.
+`:q` (typing `:` then `q`) and it would have the same effect.  
+This way of writing alternatives is continued down the page.
 
 The two main sections we are going to look at are the first two sections: 
 `MOVING` and `SEARCHING` in this tutorial.  
