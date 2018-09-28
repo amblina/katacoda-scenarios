@@ -15,5 +15,6 @@ Things we've covered:
 |`head`| Output the first part of files to screen|
 |`tail`| Output the last part of files to screen|
 |`wc`| Print counts of lines, words and bytes for files |
+|`seq`| Print a list of numbers|
 
 Now you're ready to do other things!

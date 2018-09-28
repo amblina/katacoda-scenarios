@@ -2,6 +2,10 @@ First we will be running this command to create a long and boring file:
 
 `seq 0 1000000 > /home/scrapbook/tutorial/numbers.txt`{{execute}}
 
+Don't worry about this command for now - we'll come back to it later. 
+Suffice to say that a file is created called `numbers.txt` which contains 
+the numbers 0 to 1000000, one number per line.
+
 Let's read this file!
 
 `cat numbers.txt`{{execute}}
