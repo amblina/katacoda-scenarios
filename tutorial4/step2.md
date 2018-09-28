@@ -21,7 +21,7 @@ to analyse the first 100 reads or if you want to check the format of the file
 before you do something with it.
 
 
-###The `head` command
+### The `head` command
 
 We can check the top of the file using `head` another inbuilt command that lets 
 you cat a certain number of lines from a file.  Like before, let's check the 
