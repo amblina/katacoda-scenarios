@@ -7,12 +7,12 @@ directory (`mkdir`).
 
 |Command|What it does|
 |-----|------|
-|pwd| prints working directory|
-|ls| lists what is saved in your working directory (files and directories)|
-|ls \<path\>| lists what is saved in \<path\> (files and directories)|
-|mkdir \<path\>| makes a directory at \<path\>|
-|cd \<path\>| changes your working directory to \<path\>|
-|less \<path\>| opens the file \<path\> for reading|
+|`pwd`| prints working directory|
+|`ls`| lists what is saved in your working directory (files and directories)|
+|`ls \<path\> `| lists what is saved in \<path\> (files and directories)|
+|`mkdir \<path\>` | makes a directory at \<path\>|
+|`cd \<path\> `| changes your working directory to \<path\>|
+|`less \<path\>` | opens the file \<path\> for reading|
 
 What you might have noticed is that these follow a similar structure:
 
