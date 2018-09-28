@@ -6,3 +6,13 @@ you will see the results straight away.
 
 Always try to type these commands 
 yourself as this will make it easier to get the hang of it!
+
+We will be learning how to read files using a program called `less`
+
+* What a **terminal pager program** is
+* How to navigate through a text file
+* Searching a text file
+
+|Command|Description|
+|-------|----------|
+|`less`| A program to read text files|
