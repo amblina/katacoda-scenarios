@@ -77,6 +77,10 @@ this question in your mind!
 ### Questions
 
 1. Print to screen `sample.fastq` twice in one command.
+<details>
+    <summary>Answer</summary>
+    `cat sample.fastq sample.fastq`{{execute}}
+</details>
 
 
 
