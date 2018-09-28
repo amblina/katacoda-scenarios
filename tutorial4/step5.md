@@ -14,7 +14,7 @@ Remember we discussed that `[]` means that those parts of the command are
 optional - i.e. the command won't complain if you don't have them. If we read 
 the DESCRIPTION we find out why:
 
-```bash
+```
 Print the first 10 lines of each FILE to standard output. 
 With more than one FILE, precede each with a header giving 
 the file name. With no FILE, or when FILE is -, 
