@@ -1,10 +1,10 @@
-In the previous tutorial we covered `less` how to scroll up and down a file 
-openned in `less`.  One thing we talked about was that help is packaged up with
-almost all commands - you just need to find out where and how to read it.  This 
-is what this tutorial will be covering.
-
 The vast majority of software packaged with unix and unix-like operating 
 systems come with a **man page** - a manual to explain how to run the software.
+
+Now check out the [man page](https://en.wikipedia.org/wiki/Man_page) for `ls`.
+You will first see sections called `NAME`, `SYNOPSIS`, `DESCRIPTION`.  Most 
+programs will have these sections filled out describing what the program is and 
+how to use the software.
 
 This manual can be accessed by running `man`.
 
@@ -42,4 +42,15 @@ The manual page is broken up into sections - these sections are:
 |SEE ALSO| Related software you may want to investigate|
 
 
-The sections we'll be concentrating on are the first three in this tutorial.
+The sections we'll be concentrating on are the first three in this tutorial.  
+
+##### Note:
+**Don't worry** about understanding everything in this manual - how many times do 
+you read an entire manual?  It's more important to 
+work out *how* to read the manual than remember what you're reading.  
+The manual is for reference, you can check back whenever you need it - you 
+don't need to store the whole thing in your head.  
+
+The manual is for everyone from people just 
+starting out through to seasoned professionals so not everything in the 
+manual makes sense until you need it and that's ok.  
