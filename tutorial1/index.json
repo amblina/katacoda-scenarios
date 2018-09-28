@@ -18,7 +18,11 @@
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Something else",
+        "title": "Step 4 - Absolute vs relative paths",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 5 - Learning more about ls",
         "text": "step4.md"
       }
     ],
