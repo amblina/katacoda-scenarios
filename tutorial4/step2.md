@@ -8,8 +8,13 @@ Let's read this file!
 
 OK, that took a little while to print the whole file to screen.
 
-**What if we wanted to stop it running half way through?** 
-_Answer_: Use `ctrl + c`.
+**Question:** What if we wanted to stop it running half way through?
+
+<details>
+    <summary>Answer</summary>
+        Use `ctrl + c`.
+</details>
+
 
 Try that out so that you know you can do it. don't panic if it doesn't stop 
 right away - it's just finishing up catting the of the part the file it was on 
@@ -25,7 +30,7 @@ before you do something with it.
 
 We can check the top of the file using `head` another inbuilt command that lets 
 you cat a certain number of lines from a file.  Like before, let's check the 
-**manpage** (remember you can exit the manpage by typing q).
+**man page** (remember you can exit the man page by typing q).
 
 `man head`{{execute}}
 
@@ -43,7 +48,7 @@ Description
     ...
 ```
 
-OK, so what this manpage is telling us is that we can use the command by 
+OK, so what this man page is telling us is that we can use the command by 
 writing the command name `head` followed by options and then filename(s). By 
 default the number of lines that are printed to the screen is 10.  This can be 
 changed using the `-n` command.  Let's give it a go! Have a think before 
@@ -53,7 +58,7 @@ running the command - what do you think should happen?
 
 Brill, so what we see is the first 10 lines (0-9) of the file being printed.  
 
-Let's try using that `-n` option.  If you want to a reminder from the manpage, 
+Let's try using that `-n` option.  If you want to a reminder from the man page, 
 just call up the documentation again with the `man` command.
  
 `head -n 5 numbers.txt`{{execute}}
@@ -94,6 +99,26 @@ What about finding the last 5 lines?
 Excellent!
 
 #### Questions
-1. How do you print the first line of the numbers file?
+1. How do you print the first line of the `numbers.txt` file?
+<details>
+    <summary>Answer</summary>
+        `head -n 1 numbers.txt`{{execute}}
+</details>
 
-2. How do you print the last line of the numbers file?
+2. How do you print the last line of the `numbers.txt` file?
+<details>
+    <summary>Answer</summary>
+        `tail -n 1 numbers.txt`{{execute}}
+</details>
+
+3. If you wanted to print out the first record in `sample.fastq` how would you 
+do that?
+<details>
+    <summary>Hint</summary>
+        Remember that fastq have 4 lines per record, so you'll need to 
+        grab the first 4 lines using `head`.
+</details>
+<details>
+    <summary>Answer</summary>
+        `head -n 4 sample.fastq`{{execute}}
+</details>
