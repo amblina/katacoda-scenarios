@@ -19,7 +19,9 @@ We could find out how to run less by running it with `--help` but let's just
 try following the suggestion of adding a filename.
 
 **Hint:** If you don't want to type out a filepath, you can tap tab to 
-complete the command.
+complete the command. Just type `less ada_l` and then click tab (Tab ↹) this 
+should auto-complete the filename.  We will touch on this in more detail 
+another time.
 
 `less ada_lovelace_bio.txt`{{execute}}
 
