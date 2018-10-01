@@ -9,6 +9,7 @@ Things we have covered:
 * How to list the contents of a directory (`ls`)
 * How to make a directory (`mkdir`)
 * How to move into a new directory (`cd`)
+* That `..` means directory above or **parent directory**
 * Briefly touched upon **absolute** and **relative** paths
 
 
