@@ -28,7 +28,7 @@ You can create a directory with any name you want by writing the following:
 
 ``mkdir <name_of_your_directory>``
 
-As good practise, don't include spaces in your directory name - we'll cover 
+As good practice, don't include spaces in your directory name - we'll cover 
 this later.
 
 ##### 2.2.1 Trying to create a directory that already exists
