@@ -65,5 +65,5 @@ try and convert these to only one line.
 </details>
 <details>
     <summary>Answer</summary>
-        `wc -l numbers.txt`{{execute}}
+        `wc -m numbers.txt`{{execute}}
 </details>
