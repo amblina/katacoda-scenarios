@@ -28,7 +28,7 @@ This is saying that `ls` takes optional arguments (`OPTIONS`) and a filepath
 
 The square brackets mean that both `OPTION` and `FILE` are both 
 optional - don't need to be specified - for the command to run. We already know 
-this as we have used `ls` on it's own before.  
+this as we have used `ls` on its own before.  
 
 The `...` refers to the fact that you can specify 
 multiple `OPTION` arguments and `FILE` arguments (as long as they are in that 
@@ -41,7 +41,7 @@ man page:
 
 Now we are on the command line again let's test what we have learnt:
 
-We already know that we can run `ls` on it's own (without options or paths) and 
+We already know that we can run `ls` on its own (without options or paths) and 
 that we can run it with options and a path.  These combinations are shown below.
 Try running these commands and predicting what will be produced by each command.
 
