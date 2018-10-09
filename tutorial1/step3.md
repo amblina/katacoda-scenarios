@@ -70,8 +70,8 @@ Let's try this:
 
 ### Task
 
-1) Create a folder in the step3 folder called `test`
+1) Create a folder in the step3 folder called `test_folder`
 
-2) List the contents of this new `test` folder
+2) List the contents of this new `test_folder` folder
 
 3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the contents of the folder above
