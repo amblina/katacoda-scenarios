@@ -24,6 +24,8 @@ You should see this output:
 
 `/home/scrapbook/tutorial`
 
+Congratulations you've just run your first command on command line!
+
 ### Don't panic!
 
 Don't worry about running any commands in this environment - you can't break 
