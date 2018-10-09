@@ -1,3 +1,9 @@
+### Don't panic!
+
+Don't worry about running any commands in this environment - you can't break 
+anything here!
+
+
 Commands can be transcribed from the left to the terminal on the right or 
 clicked.  
 
