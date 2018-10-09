@@ -62,7 +62,7 @@ fifth line
 ```
 It just prints (or **cats**) the contents of the two files one after the other.
 
-Now how about running cat on it's own?
+Now how about running cat on its own?
 
 `cat`{{execute}}
 
