@@ -71,7 +71,38 @@ Let's try this:
 ### Task
 
 1) Create a folder in the step3 folder called `test_folder`
+    <details>
+        <summary>Hint</summary>
+            Remember to **m**a**k**e a **dir**ectory use ``mkdir``.
+    </details>
+    <details>
+        <summary>Answer</summary>
+            `mkdir step3`{{execute}}
+    </details>
 
 2) List the contents of this new `test_folder` folder
+    <details>
+        <summary>Hint</summary>
+            Remember to **l**i**s**t the contents of a directory use ``ls``.
+    </details>
+    <details>
+        <summary>Answer</summary>
+            `ls step3`{{execute}}
+    </details>
 
-3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the contents of the folder above
+3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the 
+contents of the folder above
+
+    <details>
+        <summary>Hint</summary>
+            Remember to **l**i**s**t the contents of a directory use ``ls``.
+    </details>
+    <details>
+        <summary>Hint</summary>
+            Remember that `..` can be used as shorthand for "folder above"
+    </details>
+    <details>
+        <summary>Answer</summary>
+            `ls ..`{{execute}}
+            `ls /home/scrapbook/tutorial/step3`{{execute}}
+    </details>
