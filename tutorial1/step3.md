@@ -68,6 +68,7 @@ Let's try this:
 
 `pwd`{{execute}}
 
+___
 ### Task
 
 1) Create a folder in the step3 folder called `test_folder`
