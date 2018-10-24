@@ -78,7 +78,7 @@ ___
     </details>
     <details>
         <summary>Answer</summary>
-            `mkdir step3`{{execute}}
+            `mkdir step3/test_folder`{{execute}}
     </details>
 
 2) List the contents of this new `test_folder` folder
@@ -88,7 +88,7 @@ ___
     </details>
     <details>
         <summary>Answer</summary>
-            `ls step3`{{execute}}
+            `ls step3/test_folder`{{execute}}
     </details>
 
 3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the 
