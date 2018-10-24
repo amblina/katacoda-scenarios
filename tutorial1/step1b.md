@@ -1,5 +1,3 @@
-### Working directory
-
 Let's try running command that exists instead - the``pwd`` command!
  
  ``pwd`` stands for: 
