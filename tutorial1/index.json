@@ -6,27 +6,27 @@
   "details": {
     "steps": [
       {
-        "title": "Step 0 - Run your first command!",
-        "text": "step1.md"
+        "title": "Run your first command!",
+        "text": "step1a.md"
       },      {
-        "title": "Step 1 - Run your first real command!",
-        "text": "step1b.md"
+        "title": "Run your first real command!",
+        "text": "step2a.md"
       },
       {
-        "title": "Step 2 - Creating directories",
-        "text": "step2.md"
+        "title": "Creating directories",
+        "text": "step3a.md"
       },
       {
-        "title": "Step 3 - Changing directory",
-        "text": "step3.md"
+        "title": "Changing directory",
+        "text": "step4a.md"
       },
       {
-        "title": "Step 4 - Absolute vs relative paths",
-        "text": "step4.md"
+        "title": "Absolute vs relative paths",
+        "text": "step5a.md"
       },
       {
-        "title": "Step 5 - Learning more about ls",
-        "text": "step5.md"
+        "title": "Learning more about ls",
+        "text": "step6a.md"
       }
     ],
     "intro": {

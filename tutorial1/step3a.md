@@ -3,7 +3,7 @@ which folder we are currently in (our **working directory**).
 
 Let's continue exploring.
 
-#### 2.1 Listing contents of directories
+#### 3.1 Listing contents of directories
 Next we will look at listing contents of directories.
 
 This is done with a command `ls` which lists the contents of a directory.
@@ -14,7 +14,7 @@ Q: You will see the word ``docker`` displayed why?
 
 A: This directory contains an item (in this case a directory) called docker.
 
-#### 2.2 Creating directories
+#### 3.2 Creating directories
 Let's create some directories:
 
 ``mkdir my_data``{{execute}}
@@ -32,7 +32,7 @@ You can create a directory with any name you want by writing the following:
 As good practice, don't include spaces in your directory name - we'll cover 
 this later.
 
-##### 2.2.1 Trying to create a directory that already exists
+##### 3.2.1 Trying to create a directory that already exists
 
 Let's try creating the same directory twice - what happens?
 
@@ -45,7 +45,7 @@ You will see a sensible message telling you why this isn't possible:
 This error message says that the program `mkdir` is unable to create this 
 directory and tells you why: the file (folder) already exists!
 
-##### 2.2.2 Creating multiple directories
+##### 3.2.2 Creating multiple directories
 
 You can also create multiple directories with one command:
 

@@ -1,0 +1,52 @@
+{
+  "title": "Tutorial 5: Filtering files",
+  "description": "Bioinfo.",
+  "difficulty": "beginner",
+  "time": "5 minutes",
+  "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "*",
+          "target": "/home/scrapbook/tutorial"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Step 1: Reading a file",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2: Reading a bit of a file",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3: Counting with wc",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4: Redirecting output",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 5: Pipes",
+        "text": "step5.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Amber Wright"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nDon't worry you won't break this!\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
