@@ -32,9 +32,10 @@ messages happen all the time and are not necessarily a bad thing. Some are
 helpful and descriptive and can tell you what you need to do instead.
 
 The error message is telling you that `bash` (the command line interpreter - 
-the software that executes your commands) has an issue with the command `hello` 
-that you entered and that the issue is that it doesn't know what to do with 
-the instruction `hello` as that command doesn't exist.
+the software that executes your commands) has an issue with the command 
+`hello` and that issue is that the command `hello` doesn't exist.
+
+That's all pretty sensible and boring!
 
 ### Tasks
 
