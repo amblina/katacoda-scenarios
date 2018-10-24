@@ -1,5 +1,6 @@
 In the previous step we learned about ``pwd`` which tells us
 which folder we are currently in (our **working directory**). 
+
 Let's continue exploring.
 
 #### 2.1 Listing contents of directories
@@ -9,9 +10,9 @@ This is done with a command `ls` which lists the contents of a directory.
 
 ``ls``{{execute}}
 
-Q: You will see nothing returned - why?
+Q: You will see the word ``docker`` displayed why?
 
-A: This folder is empty!
+A: This directory contains an item (in this case a directory) called docker.
 
 #### 2.2 Creating directories
 Let's create some directories:
