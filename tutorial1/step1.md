@@ -2,7 +2,9 @@ The command line is case sensitive, so always type commands exactly as given.
 For more complex commands spaces are important as well.
 
 A <strong>prompt</strong> will be displayed in the terminal window on 
-the right.
+the right. A prompt is a set of characters printed on the screen that show you 
+where you will be writing your commands.  It also tells you that the command 
+line is ready to process your instructions.
 
 Prompts will look slightly different on different systems but for this 
 tutorial this will be:
@@ -45,14 +47,17 @@ helpful and descriptive and can tell you what you need to do instead.
 
 The error message is telling you that `bash` (the command line interpreter - 
 the software that executes your commands) has an issue with the command `hello` 
-that you entered and that that issue is that it doesn't know what to do with 
+that you entered and that the issue is that it doesn't know what to do with 
 the instruction `hello` as that command doesn't exist.
 
 
 ### Task
 
-1) Find out which directory (folder) you are in currently: 
-
+1) Find out which directory (folder) you are in currently.
+    <details>
+        <summary>Answer</summary>
+            `pwd`{{execute}}
+    </details>
 
 You should see the following output:
 `/home/scrapbook/tutorial`
