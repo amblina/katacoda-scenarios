@@ -14,7 +14,7 @@ You should see this output:
 
 Congratulations you've just run your first command on command line!
 
- A **directory** is just another name for a folder*. When you are in a 
+ A **directory** is just another name for a folder\*. When you are in a 
  command line environment you are always *somewhere* in the filesystem and 
  this is known as your **working directory**.  This can be a weird concept 
  if you only haven't used command line before but you will get used to 
