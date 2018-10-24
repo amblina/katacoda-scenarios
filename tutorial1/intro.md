@@ -16,8 +16,8 @@ yourself as this will make it easier to get the hang of it!
 Things we will be covering:
 
 
-* How to run commands in a terminal window
-* What a working directory is
+* How to run **commands** in a **terminal window**
+* What a **working directory** is
 * Find out where you are in the filesystem (`pwd`)
 * How to list the contents of a directory (`ls`)
 * How to make a directory (`mkdir`)
