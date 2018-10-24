@@ -6,8 +6,11 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Run your first command!",
+        "title": "Step 0 - Run your first command!",
         "text": "step1.md"
+      },      {
+        "title": "Step 1 - Run your first real command!",
+        "text": "step1b.md"
       },
       {
         "title": "Step 2 - Creating directories",

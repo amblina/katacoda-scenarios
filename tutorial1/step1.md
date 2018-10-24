@@ -7,26 +7,12 @@ where you will be writing your commands.  It also tells you that the command
 line is ready to process your instructions.
 
 Prompts will look slightly different on different systems but for this 
-tutorial this will be:
+tutorial they will be:
 
 `>` or `$`
 
 To instruct your terminal to do something, you need to enter specific commands 
-and press enter.  Let's try running the ``pwd`` command!
- 
- ``pwd`` stands for: 
- 
- **p**rint **w**orking **d**irectory
- 
-This will tell you where you are in the filesystem, your **working directory**.
-
-`pwd`{{execute}}
-
-You should see this output:
-
-`/home/scrapbook/tutorial`
-
-Congratulations you've just run your first command on command line!
+and press enter.  
 
 ### Don't panic!
 
@@ -50,15 +36,14 @@ the software that executes your commands) has an issue with the command `hello`
 that you entered and that the issue is that it doesn't know what to do with 
 the instruction `hello` as that command doesn't exist.
 
+### Tasks
 
-### Task
+1) Try running some silly made-up commands
 
-1) Find out which directory (folder) you are in currently.
-    <details>
-        <summary>Answer</summary>
-            `pwd`{{execute}}
-    </details>
+Here are some ideas!
+* `hello world`{{execute}}
+* `qwerty`{{execute}}
+* `123`{{execute}}
 
-You should see the following output:
-`/home/scrapbook/tutorial`
+
 
