@@ -39,7 +39,7 @@ When you called `mkdir` you were specifying the **relative** path.  This means
 you were specifying the new folder name *relative* to the folder you were in 
 i.e. `/home/scrapbook/tutorial`.
 
-So instead of having to type the **abosolute** (full) filepath:
+So instead of having to type the **absolute** (full) filepath:
 
 `mkdir /home/scrapbook/tutorial/test_folder/new_folder`
 
