@@ -10,8 +10,11 @@ clicked.
 If clicked, the command will be run in the terminal on the right and 
 you will see the results straight away.  
 
-Always try to type these commands 
-yourself as this will make it easier to get the hang of it!
+The command line is case sensitive, so always type commands exactly as given. 
+For more complex commands spaces are important as well.
+
+Always try to type these commands yourself as this will make it easier to 
+get the hang of it!
 
 Things we will be covering:
 

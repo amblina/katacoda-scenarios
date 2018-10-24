@@ -1,6 +1,3 @@
-The command line is case sensitive, so always type commands exactly as given. 
-For more complex commands spaces are important as well.
-
 A <strong>prompt</strong> will be displayed in the terminal window on 
 the right. A prompt is a set of characters printed on the screen that show you 
 where you will be writing your commands.  It also tells you that the command 
