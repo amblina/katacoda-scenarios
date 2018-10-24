@@ -93,7 +93,6 @@ ___
 
 3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the 
 contents of the folder above
-
     <details>
         <summary>Hint</summary>
             Remember to **l**i**s**t the contents of a directory use ``ls``.
