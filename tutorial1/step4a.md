@@ -71,6 +71,10 @@ Let's try this:
 ___
 ### Task
 
+First let's put ourselves in the `/home/scrapbook/tutorial` folder
+
+`cd /home/scrapbook/tutorial`{{execute}}
+
 1) Create a folder in the step3 folder called `test_folder`
     <details>
         <summary>Hint</summary>
@@ -91,7 +95,7 @@ ___
             `ls step3/test_folder`{{execute}}
     </details>
 
-3) Change directory into `/home/scrapbook/tutorial/step3/test` and list the 
+3) Change directory into `/home/scrapbook/tutorial/step3/test_folder` and list the 
 contents of the folder above
     <details>
         <summary>Hint</summary>
@@ -104,5 +108,6 @@ contents of the folder above
     <details>
         <summary>Answer</summary>
             `ls ..`{{execute}}
+            or
             `ls /home/scrapbook/tutorial/step3`{{execute}}
     </details>
