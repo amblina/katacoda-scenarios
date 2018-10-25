@@ -59,9 +59,9 @@ forward (down) or backward (up) in a file. Let's try that out:
 You should see the file move forward then backward by one line.  The other 
 alternatives should also work.
 
-Both commands have also been marked with `*` this is not an alternative key 
-for moving forward and backward in the file. What it signifies according to 
-the help file's first sentence is that the default behaviour (moving one line) 
+Both commands have also been marked with `*`, this is not an alternative key 
+for moving forward and backward in the file. What it signifies, according to 
+the help file's first sentence, is that the default behaviour (moving one line) 
 can be altered by supplying a number before the command.
 
 
