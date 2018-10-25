@@ -43,8 +43,10 @@ A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
 
                     MOVING
 
-e ^e j ^N CR    *   Forward one line (or N lines).
-y ^y k ^K ^P    *   Backward one line (or N lines) 
+e ^E j ^N CR    *   Forward one line (or N lines).
+y ^Y k ^K ^P    *   Backward one line (or N lines)
+f ^F ^V SPACE   *   Forward one window (or N lines)
+b ^B ESC-V      *   Backward on window (or N lines)
 ```
 
 Let's interpret these together and try them out on the ada lovelace file.  
@@ -57,13 +59,31 @@ forward (down) or backward (up) in a file. Let's try that out:
 `y`{{execute}}
 
 You should see the file move forward then backward by one line.  The other 
-alternatives should also work.
+alternatives should also work for example '^E'.  
+
+**Remember** according to the 
+beginning of the help file '^' stands for the `ctrl` key. So to move forward 
+one line you would need press `ctrl` and the `E` key on your keyboard at the 
+same time.  This can also be written as: `ctrl+e`, `ctrl+E`, 
+`ctrl-e` or `ctrl-E`.
 
 Both commands have also been marked with `*`, this is not an alternative key 
-for moving forward and backward in the file. What it signifies, according to 
-the help file's first sentence, is that the default behaviour (moving one line) 
-can be altered by supplying a number before the command.
+for moving forward and backward in the file. This was described in the 
+first part of the help:
 
+```
+            SUMMARY OF LESS COMMANDS
+            
+Commands marked with * may be preceded by a number, N.
+```
+Commands marked with the star can be changed from their default behaviour by 
+typing a number (N) before typing the command e.g. typing `5` THEN `e`.  The 
+ default behaviour of `e` is to move forward one line - adding a number just 
+ increases how many lines you're moving forward in the file:
+ 
+```
+e ^E j ^N CR    *   Forward one line (or N lines).
+```
 
 `5e`{{execute}}
 `5y`{{execute}}
@@ -75,3 +95,19 @@ Using this knowledge try and look back at the help file:
 `h`{{execute}}
 
 and try out other `MOVEMENT` commands.
+
+________
+**Tasks**
+
+Try out the following commands:
+
+```
+f ^F ^V SPACE   *   Forward one window (or N lines)
+b ^B ESC-V      *   Backward on window (or N lines)
+```
+
+so:
+
+`f`{{execute}} to move forward one screen (or page)
+`b`{{execute}} to move backwards one screen (or page)
+
