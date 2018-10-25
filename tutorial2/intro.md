@@ -1,8 +1,8 @@
-When completing this tutorial you can either type out commands as they appear 
- on the tutorial in the terminal (black screen) or you can click the commands.
+To start the tutorial click "START SCENARIO" <3
 
-If clicked, the command will be run in the terminal on the right hand side and 
-you will see the results straight away.  
+This tutorial will have several commands to run. Feel free to either type 
+them out yourself into the terminal window on the right or click the command to 
+run that command in the terminal window.
 
 Always try to type these commands 
 yourself as this will make it easier to get the hang of it!
