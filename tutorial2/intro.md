@@ -1,7 +1,7 @@
-Commands can be transcribed from the left to the terminal on the right or 
-clicked.  
+When completing this tutorial you can either type out commands as they appear 
+ on the tutorial in the terminal (black screen) or you can click the commands.
 
-If clicked, the command will be run in the terminal on the right and 
+If clicked, the command will be run in the terminal on the right hand side and 
 you will see the results straight away.  
 
 Always try to type these commands 
