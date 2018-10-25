@@ -1,10 +1,7 @@
-The next thing to learn how to do is to open and read the contents of files.  
+We are going to learn how to do is to open and read the contents of files.  
 We will be doing that in this tutorial using `less`, a **terminal pager 
 program**.  It is used primarily to read the contents of a file one screen 
-(or page) at a time.  
-
-Though you can edit text in this program, we will be concentrating on reading 
-files with it instead.  `less` is installed on most unix and unix-like systems 
+(or page) at a time.  `less` is installed on most unix and unix-like systems 
 so is almost always available to use.
 
 Just like before, let's try and run `less` on it's own:
