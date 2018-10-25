@@ -19,7 +19,7 @@ Let's create some directories:
 
 ``mkdir my_data``{{execute}}
 
-Now let's check the contents of ``pwd``
+Now let's check the contents of our working directory now!
 
 ``ls``{{execute}}
 
