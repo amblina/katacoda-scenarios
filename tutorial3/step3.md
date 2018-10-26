@@ -1,13 +1,9 @@
+OK, let's read about a command we have experience with: `ls`.
+
 `man ls`{{execute}}
 
-This will automatically open up a help page in the terminal - don't 
-panic! The help page is opening in the **default** program for opening text 
-files on this machine - a program called `less` - something we covered in 
-tutorial 2. Remember in order to return to the command prompt just press 
-`q` for **q**uit.
-
-The man page can be navigated using your directional keys - try pressing the 
-down arrow ⇩.
+Remember the man page can be navigated using your directional keys - 
+try pressing the down arrow ⇩.
 
 First there is the `NAME` section which says what we already know:
 
