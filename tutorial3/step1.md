@@ -10,15 +10,15 @@ commands.  First though, let's review what we've learned from the commands
 we've already tried.  
 
 **Note:**
-Anywhere I write  something in angle brackets (`< >`) e.g. 
-`<something>` is a placeholder for something the user would add themselves e.g.
-if you were telling you how to run `mkdir` you might write:
-   
-   
-```mkdir <path>```  
-
-   
-to indicate that you need to add a filepath after the `mkdir` command.  
+> Anywhere I write  something in angle brackets (`< >`) e.g. 
+ `<something>` is a placeholder for something the user would add themselves e.g.
+ if you were telling you how to run `mkdir` you might write:
+>   
+>   
+> ```mkdir <path>```  
+>
+>   
+> to indicate that you need to add a filepath after the `mkdir` command.  
 What you put instead of the angle brackets depends on 
 what you want to achieve e.g. what you want to name your directory (`mkdir`) or
 which directory you wish to move to with `cd`.
