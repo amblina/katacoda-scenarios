@@ -13,11 +13,9 @@ These commands should show that we are in:
 
 And in this folder we have two files: `sample.fastq` and `small_file.txt`
 
-<div style="background-color:FAEBD7">
 These are files that we will be playing with during this 
 tutorial.  The fastq file is copied from the fastq example 
 [on wikipedia](https://en.wikipedia.org/wiki/FASTQ_format).
-</div>
 
 Let's read these files!  We will be using a program called `cat`. This program
 con**cat**enates files and prints them onto your screen. Let's give it a go:
