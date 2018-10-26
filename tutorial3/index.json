@@ -26,12 +26,15 @@
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Something else",
+        "title": "Step 4 - Reading a man page (cont)",
         "text": "step4.md"
       },
       {
         "title": "Step 5 - Wacky commands",
         "text": "step5.md"
+      },
+        "title": "Step 6 - Conventions",
+        "text": "step6.md"
       }
     ],
     "intro": {
