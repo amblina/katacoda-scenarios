@@ -8,6 +8,7 @@ Things we have covered:
 * How to read what you need from a **man page**
 * Learning some new ways of running `ls` using **man page** info
 * Some command options start with `-` some with `--`
+* If you can't find help in the manual - try running the command with `--help`!
 
 |Command|Description|
 |-------|----------|
