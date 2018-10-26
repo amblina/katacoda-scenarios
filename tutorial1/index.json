@@ -2,7 +2,7 @@
   "title": "Tutorial 1: Introduction to Command-line",
   "description": "Running your first few commands & Navigating the filesystem with pwd, cd, ls and mkdir.",
   "difficulty": "beginner",
-  "time": "5 minutes",
+  "time": "10-15 minutes",
   "details": {
     "steps": [
       {
