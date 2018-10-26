@@ -1,5 +1,5 @@
 
-<span style="color:blue">hello</span>
+<span bgcolor="color:blue">hello</span>
 
 Like in tutorial 1, let's check where we are and what is in our directory;
 
