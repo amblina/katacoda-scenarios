@@ -58,7 +58,8 @@ List information about the FILEs (the current directory by default).
 
 Almost all software installed on your machine will have a `man page` on a 
 unix or unix-like system.  However, if there is no manual for a command line 
-tool often runnning `--help` with the software name can bring up help info.
+tool adding `--help` to the command is often a good idea as it can  bring up 
+help info.
 
 While we are trying out wacky commands, try running the `man` command for a 
 piece of software that doesn't exist:
