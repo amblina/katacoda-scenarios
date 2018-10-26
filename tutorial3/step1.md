@@ -9,7 +9,7 @@ This tutorial will be covering what to do when you're faced with unfamiliar
 commands.  First though, let's review what we've learned from the commands 
 we've already tried.  
 
-<div style="background-color:FAEBD7">
+<div style="background-color:FAEBD7" style="white-space:>
 **Note:**
 Anywhere I write  something in angle brackets (`< >`) e.g. 
 `<something>` is a placeholder for something the user would add themselves e.g.
