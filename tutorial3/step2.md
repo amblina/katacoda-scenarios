@@ -25,8 +25,11 @@ the screen where we currently are in the filesystem.
 
 `man pwd`{{execute}}
 
-This opens the manual page for `pwd` using `less` - the default program for 
-reading files on this system.
+This will automatically open up a help page in the terminal for `pwd`. 
+The help page is opening in the **default** program for opening text 
+files on this machine - a program called `less` - something we covered in 
+tutorial 2. Remember in order to return to the command prompt just press 
+`q` for **q**uit.
 
 The manual page is broken up into sections - these sections are:
 
