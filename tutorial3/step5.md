@@ -1,4 +1,4 @@
-#### What happens if you choose an option that doesn't exit?
+#### What happens if you choose an option that doesn't exist?
 
 Before we finish up let's find out what will happen if you execute a command 
  on the command line with an option that doesn't exist.  Try the following:
