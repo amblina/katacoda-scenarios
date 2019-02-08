@@ -49,7 +49,7 @@ directory and tells you why: the file (folder) already exists!
 
 You can also create multiple directories with one command:
 
-``mkdir step_1 step2``{{execute}}
+``mkdir step_1 step_2``{{execute}}
 
 This will create two directories, one called "step_1" and one called "step_2".
 

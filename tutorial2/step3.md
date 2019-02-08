@@ -21,7 +21,9 @@ ESC-u                Undo (toggle) search highlighting.
 ```
 
 Quit the help page so that you're looking at the Ada Lovelace biography file 
-again.
+again.  Just like exiting you can **q**uit the help page by clicking `q`.
+
+`q`{{execute}}
 
 The first command says that it'll look at all future lines in the file for a 
 particular pattern - this pattern can be a word:
