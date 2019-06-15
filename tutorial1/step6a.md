@@ -37,7 +37,7 @@ stands for **h**uman readable.  This can be run like in addition of `-l`:
 `ls -l -h`{{execute}}
 
 As you can see the output has changed again, this time converting the filesize 
-which was previously into "human-readable" units:
+which was previously in bytes into "human-readable" units:
 
 ```
 $ ls -l -h
@@ -48,7 +48,7 @@ drwxr-xr-x 2 root scrapbook 4.0K Sep  3 21:03 docker
 -rw-r--r-- 1 root root        57 Sep 28 13:44 small_file.txt
 ```
 
-These extra options you can add that are structured like `-l` or any other 
-hyphen-letter combo that turn something on/off e.g. a change in format are 
+Extra options, that are structured like `-l` (or any other 
+hyphen-letter combo) that turn something on/off e.g. a change in format, are 
 known as **flags**.  This isn't that important now, but it's a good thing to 
 know.
