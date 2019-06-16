@@ -5,7 +5,11 @@ First, let's open the same file again:
 
 `less ada_lovelace_bio.txt`{{execute}}
 
+---
+**NOTE**
 Remember you can **q**uit this file anytime using `q`{{execute}}
+
+---
 
 Ok, now you're in the file type:
 
