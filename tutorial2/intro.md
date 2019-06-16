@@ -9,6 +9,8 @@ yourself as this will make it easier to get the hang of it!
 
 We will be learning how to read files using a program called `less`
 
+Things we will be covering:
+
 * What a **terminal pager program** is
 * How to navigate through a text file
 * Searching a text file
