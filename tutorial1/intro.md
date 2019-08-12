@@ -23,12 +23,12 @@ Things we will be covering:
 * Find out where you are in the filesystem (`pwd`)
 * How to list the contents of a directory (`ls`)
 * How to make a directory (`mkdir`)
-* How to move into a new directory (`cd`)
+* How to change into a new directory (`cd`)
 * Briefly touch upon **absolute** and **relative** paths
 
 |Command|Description|
 |-------|----------|
 |`pwd`| **P**rint your **w**orking **d**irectory|
 |`ls`| **L**i**s**t the contents of a particular path|
-|`cd`| Move to a particular path (or **c**hange **d**irectory)|
+|`cd`| **c**hange to a particular **d**irectory path|
 |`mkdir`| **M**a**k**e a **dir**ectory at a particular path|
