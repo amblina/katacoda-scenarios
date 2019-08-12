@@ -3,9 +3,8 @@
 Don't worry about running any commands in this environment - you can't break 
 anything here!
 
-
-Commands can be transcribed from the left to the terminal on the right or 
-clicked.  
+You can type the commands from the instructions on the left into the terminal
+on the right, or you can directly click the commands in the instructions.
 
 If clicked, the command will be run in the terminal on the right and 
 you will see the results straight away.  
