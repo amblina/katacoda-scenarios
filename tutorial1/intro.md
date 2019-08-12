@@ -28,7 +28,7 @@ Things we will be covering:
 
 |Command|Description|
 |-------|----------|
-|`pwd`| **P**rint your **w**orking **d**irectory|
-|`ls`| **L**i**s**t the contents of a particular path|
+|`pwd`| **p**rint your **w**orking **d**irectory|
+|`ls`| **l**i**s**t the contents of a particular path|
 |`cd`| **c**hange to a particular **d**irectory path|
-|`mkdir`| **M**a**k**e a **dir**ectory at a particular path|
+|`mkdir`| **m**a**k**e a **dir**ectory at a particular path|
