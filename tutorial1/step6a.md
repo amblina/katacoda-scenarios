@@ -37,7 +37,7 @@ stands for **h**uman readable.  This can be run like in addition of `-l`:
 `ls -l -h`{{execute}}
 
 As you can see the output has changed again, this time converting the filesize 
-which was previously in bytes into "human-readable" units:
+which was previously in bytes into "human-readable" units\*:
 
 ```
 $ ls -l -h
@@ -52,3 +52,10 @@ Extra options, that are structured like `-l` (or any other
 hyphen-letter combo) that turn something on/off e.g. a change in format, are 
 known as **flags**.  This isn't that important now, but it's a good thing to 
 know.
+
+________
+
+\* Note that the filesize listed in `ls` output for a directory path is _not_
+the total filesize of all the files in that directory. Instead, `ls` shows
+the filesize of the _reference_ to a _list_ of the files that that directory
+contains.
