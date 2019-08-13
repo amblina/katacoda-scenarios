@@ -1,8 +1,8 @@
 {
-  "title": "Tutorial 5: Filtering files",
+  "title": "[EARLY ACCESS] Tutorial 5: Working with CSVs",
   "description": "Bioinfo.",
   "difficulty": "beginner",
-  "time": "5 minutes",
+  "time": "10 minutes",
   "details": {
     "assets": {
       "client": [
@@ -14,7 +14,7 @@
     },
     "steps": [
       {
-        "title": "Step 1: Reading a file",
+        "title": "Step 1: What is a CSV?",
         "text": "step1.md"
       },
       {
@@ -29,10 +29,6 @@
         "title": "Step 4: Redirecting output",
         "text": "step4.md"
       },
-      {
-        "title": "Step 5: Pipes",
-        "text": "step5.md"
-      }
     ],
     "intro": {
       "text": "intro.md",
