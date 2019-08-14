@@ -1,6 +1,6 @@
 In this tutorial we will be learning some small commands to make
 dealing with large csv files easier!  We won't be covering all
-the way these commands can be used but there will be enough to
+the ways these commands can be used but there will be enough to
 get started!
 
 
