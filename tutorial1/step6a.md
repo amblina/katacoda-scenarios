@@ -17,7 +17,7 @@ You can also run `ls` like this:
 
 This also gives you a list of items in `/home/scrapbook/tutorial` but in a 
 different **l**onger format. This format tells you what permissions are on the 
-files (the drvcr-xr-x part), ownership of the file, the size of the files, 
+files (the drwxr-xr-x part), ownership of the file, the size of the files, 
 when it was created and lastly the filename.  
 
 ```
