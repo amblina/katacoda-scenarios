@@ -6,7 +6,7 @@ similar to "Find in page" on your web browser (`CMD + f` or `ctrl + f`).
 
 Re-open ada-lovelace file:
 
-``less ada_lovelace_bio.txt``{{execute}}`
+``less ada_lovelace_bio.txt``{{execute}}
 
 Let's open the help page again:
 
@@ -54,4 +54,4 @@ Now, if we search for "Ada" again and fill the terminal up with highlights:
 `/Ada`{{execute}}
 
 these can be removed by using `ESC-u` - pressing the `ESC` key on your keyboard 
-and `u` key at the same time.
+followed by the `u` key.
