@@ -27,7 +27,7 @@ This particular error message is something you'll hit often - this error
 message translated into human is:
 
 The command line interpreter, `bash`, didn't know what to do with this command 
- as it found weird character or a character in a weird place.  In this example, 
+ as it found a weird character or a character in a weird place.  In this example, 
  it was because I used a `>` at the end of the command and `>` has a special 
  function which we'll be covering in the next tutorial.
  
@@ -41,14 +41,14 @@ The command line interpreter, `bash`, didn't know what to do with this command
  angle brackets `<>`| Indicate placeholders | `mkdir <PATH>`
  
  These are just some examples - as you can see from the table, these 
- conventions can be combined or contradict each other but within context and 
- experience you will work these out without an issue.
+ conventions can be combined or contradict each other but with experience
+ (and in context) you will work these out without an issue.
  
  ______
  
  ### Tasks
  
- What can you tell me about this totally made up command given this help info:
+ What can you tell me about this totally made up command given this help info?
  
  
 ```
@@ -71,20 +71,20 @@ AUTHOR
 1) Do you think this command will let you greet multiple names?
     <details>
         <summary>Hint</summary>
-            Have a think about the meaning of [NAME]...
+            Have a think about the meaning of `[NAME]...`
     </details>
     <details>
         <summary>Answer</summary>
-            Yes, because it the elipsis after NAME, it suggests you can
+            Yes - the elipsis after NAME suggests you can.
     </details>
 2) Do you think this command will work given no name?
     <details>
         <summary>Hint</summary>
-            Have a think about the meaning of [NAME]...
+            Have a think about the meaning of `[NAME]...`
     </details>
     <details>
         <summary>Answer</summary>
-            Yes, because NAME is given in square brackets
+            Yes, because NAME is given in square brackets.
     </details>
 2) What do you think would happen if you ran `greeting -g -h Tom`
     <details>
@@ -93,7 +93,7 @@ AUTHOR
     </details>
     <details>
         <summary>Answer</summary>
-            The program will likely throw an error.
+            The program will likely display an error instead of greeting anyone.
     </details>
 
  
