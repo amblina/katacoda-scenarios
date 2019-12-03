@@ -59,8 +59,8 @@ Let's check out the man page! (Yes, again!)
 
 `man seq`{{execute}}
 
-As you could expect the command says that when you run it it will `print a 
-sequence of numbers` and the DESCRIPTION says:
+As you could expect the command says that when you run it it will "print a
+sequence of numbers" and the DESCRIPTION says:
 
 ```
 SYNOPSIS
@@ -79,8 +79,44 @@ Try and predict what will happen when you run this command, then test it out:
 #### Challenges
 
 1. Create a file that contains the first 2 lines of `numbers.txt`.
+<details>
+    <summary>Hint</summary>
+        If you need to, check the man page for `head`.
+</details>
+<details>
+    <summary>Answer</summary>
+        `head -n 2 numbers.txt > challenge_1.txt`{{execute}}
+</details>
 
 2. Create a file that contains the first 10 lines of `numbers.txt` 5 times.
+<details>
+    <summary>Hint 1</summary>
+        You created a file with the first 10 lines of `numbers.txt` near the start of
+        this step of the tutorial.
+</details>
+<details>
+    <summary>Hint 2</summary>
+        If you need to, check the man page for `cat`.
+</details>
+<details>
+    <summary>Answer</summary>
+        `cat first_lines.txt first_lines.txt first_lines.txt first_lines.txt first_lines.txt > challenge_2.txt`{{execute}}
+</details>
 
 3. Create a file that contains the first 10 lines and last 10 lines 
 of `numbers.txt`
+<details>
+    <summary>Hint 1</summary>
+        You created a file with the first 10 lines of `numbers.txt` near the start of
+        this step of the tutorial.
+</details>
+<details>
+    <summary>Hint 2</summary>
+        You will need to use both `tail` and `cat`, as well as `first_lines.txt` (or
+        `head` to re-create it). Check the man pages for those commands if you need to.
+</details>
+<details>
+    <summary>Answer</summary>
+        `tail numbers.txt > last_lines.txt`{{execute}}
+        `cat first_lines.txt last_lines.txt > challenge_3.txt`{{execute}}
+</details>
