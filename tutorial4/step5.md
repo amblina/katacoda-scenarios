@@ -26,11 +26,11 @@ do that?
 
 #### Pipe dreams
 
-In the previous step we discussed two useful operators: `>` and `>>` which can 
+In the previous step we discussed two useful operators, `>` and `>>`, which can 
 be used to create new files from the output of commands.  We discussed how you 
 might want to do this to save the output and run new commands on the output.  
 
-However, creating a new file everytime you want to check the output of a 
+However, creating a new file every time you want to check the output of a 
 command is a faff - particularly if you're not interested in saving the 
 contents of a command for other purposes.
 
@@ -54,16 +54,40 @@ New and improved with pipe:
 These commands should get you the same answer.
 
 #### Challenges
-Try finding the answers to these questions with one command with `|`. If you 
-are struggling try and work out individual commands you'd like to run and then 
+Try finding a one-line answer to these questions with `|`. If you 
+are struggling, try and work out the individual commands you'd like to run and then 
 try and convert these to only one line.
 
 1. Find out how many characters are in the first 2 lines of `numbers.txt`
 <details>
     <summary>Hint</summary>
-        If you need to check the manpage for `head` and `wc`.
+        If you need to, check the man pages for `head` and `wc`.
 </details>
 <details>
     <summary>Answer</summary>
-        `wc -m numbers.txt`{{execute}}
+        `head -n 2 numbers.txt | wc -m`{{execute}}
+</details>
+
+2. Print the **second** 5 lines of `numbers.txt`
+<details>
+    <summary>Hint 1</summary>
+        Can you get the first 10 lines? What if you then take the last 5 lines of that?
+</details>
+<details>
+    <summary>Hint 2</summary>
+        Check the man pages for `head` and `tail`.
+</details>
+<details>
+    <summary>Answer</summary>
+        `head -n 10 numbers.txt | tail -n 5`{{execute}}
+</details>
+
+3. Count the characters in the the second 5 lines of `numbers.txt`
+<details>
+    <summary>Hint</summary>
+        Try combining your answers to the previous two challenges.
+</details>
+<details>
+    <summary>Answer</summary>
+        `head -n 10 numbers.txt | tail -n 5 | wc -m`{{execute}}
 </details>

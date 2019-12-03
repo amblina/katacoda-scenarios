@@ -20,11 +20,11 @@ OK, that took a little while to print the whole file to screen.
 </details>
 
 
-Try that out so that you know you can do it. don't panic if it doesn't stop 
+Try that out so that you know you can do it. Don't panic if it doesn't stop 
 right away - it's just finishing up catting the of the part the file it was on 
 before it was interrupted.
 
-OK, so you have a large file, say you were only interested in the first few 
+OK, so you have a large file - what if you were only interested in the first few 
 lines?  This is particularly useful in bioinformatics if you want to only want 
 to analyse the first 100 reads or if you want to check the format of the file 
 before you do something with it.
