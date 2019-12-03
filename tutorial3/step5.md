@@ -70,8 +70,8 @@ piece of software that doesn't exist:
 No manual entry for mystery-software
 ```
 
-That's a pretty straight-forward error message but note, like all command line 
-instructions it does **literally** what you ask.  Say you wanted to find out 
+That's a pretty straight-forward error message, but note that - like all command line 
+instructions - it does **literally** what you ask.  Say you wanted to find out 
 about `ls` but you accidentally type `sl` instead you will get a message like 
 this:
 

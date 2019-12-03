@@ -1,6 +1,6 @@
 In the previous tutorial we covered how to open a file in `less` along with 
 how to move through the file and search for particular words.  We were able to
-find out how to use less by using the help that was packaged with the software.
+find out how to use `less` by using the help that was packaged with the software.
 
 Help is packaged up with almost all commands - you just need to 
 find out where and how to read it.  This is what this tutorial will be covering.
@@ -12,7 +12,7 @@ we've already tried.
 **Note:**
 > Anywhere I write  something in angle brackets (`< >`) e.g. 
  `<something>` is a placeholder for something the user would add themselves e.g.
- if you were telling you how to run `mkdir` you might write:
+ if I were telling you how to run `mkdir` I might write:
 >   
 >   
 > ```mkdir <path>```  
@@ -45,7 +45,7 @@ or
 ```
 
 Some commands have arguments and some don't.  Arguments and options can be 
-anything you can type - numbers, letters, paths etc and customise the command 
+anything you can type - numbers, letters, paths, etc - and customise the command 
 you are running.  There are multiple ways of specifying arguments and some need 
 to be entered with a specific structure but how do you work out what options 
 are available for what program? How do you know what types of argument are 

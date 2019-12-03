@@ -50,7 +50,7 @@ Now let's try running `-h` on it's own (without `-l`):
 
 `ls -h /home/scrapbook/tutorial`{{execute}}
 
-Nothing interesting happens which makes sense - there are no sizes to convert 
+Nothing interesting happens, which makes sense - there are no sizes to convert 
 in this format.
 
 Next, let's try using the more explicit way of calling `-h`
@@ -60,8 +60,8 @@ Next, let's try using the more explicit way of calling `-h`
 It should do the same as calling `-l` and `-h`.
 
 Something to note is the longer (more explicit) version of the argument has 
-two hyphens i.e. `--human-readable` vs `-h` this is a common convention.  The 
+two hyphens i.e. `--human-readable` vs `-h`. This is a common convention.  The 
 longer versions are easier to remember but the shorter ones are quicker to 
-type (and easier not to typo!) so more people use them on a day-to-day basis.  
-they do the exact same thing so you should use what you are more comfortable 
+type (and easier not to mistype!) so more people use them on a day-to-day basis.  
+They do the exact same thing, so you should use what you are more comfortable 
 with.

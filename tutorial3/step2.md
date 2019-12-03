@@ -1,5 +1,5 @@
 The vast majority of software packaged with unix and unix-like operating 
-systems come with a **man page** - a manual to explain how to run the software.
+systems comes with a **man page** - a manual to explain how to run the software.
 
 Now check out the [man page](https://en.wikipedia.org/wiki/Man_page) for `ls`.
 You will first see sections called `NAME`, `SYNOPSIS`, `DESCRIPTION`.  Most 
@@ -27,8 +27,8 @@ the screen where we currently are in the filesystem.
 
 This will automatically open up a help page in the terminal for `pwd`. 
 The help page is opening in the **default** program for opening text 
-files on this machine - a program called `less` - something we covered in 
-tutorial 2. Remember in order to return to the command prompt just press 
+files on this machine, a program called `less` - something we covered in 
+tutorial 2. Remember, in order to return to the command prompt just press 
 `q` for **q**uit.
 
 The manual page is broken up into sections - these sections are:
