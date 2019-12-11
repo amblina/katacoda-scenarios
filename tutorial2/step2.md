@@ -15,9 +15,9 @@ Ok, now you're in the file type:
 
 ``h``{{execute}}
 
-Like almost everything in unix, this software comes with help - you just need 
-to know how to access it and work out how to interpret it - this is something 
-you will gain a feel for over time.
+Like almost all commands, this software comes with help - you just need to know
+how to access it and work out how to interpret it - this is something you will
+gain a feel for over time.
 
 The first thing the help file explains is how to read the help - we'll touch on 
 that in a minute.  
