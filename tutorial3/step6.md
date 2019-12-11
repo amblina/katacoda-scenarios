@@ -38,7 +38,7 @@ The command line interpreter, `bash`, didn't know what to do with this command
  Square brackets `[]`| Optional: An argument can be used or left out| `ls [PATH]`
  Ellipsis `...`|One of more arguments can be added| `mkdir PATH...`
  All caps| Using capital letters to indicate placeholders | `mkdir PATH`
- angle brackets `<>`| Indicate placeholders | `mkdir <PATH>`
+ Angle brackets `<>`| Indicate placeholders | `mkdir <path>`
  
  These are just some examples - as you can see from the table, these 
  conventions can be combined or contradict each other but with experience
