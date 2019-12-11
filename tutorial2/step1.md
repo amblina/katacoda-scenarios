@@ -23,14 +23,14 @@ on this in more detail another time.
 `less ada_lovelace_bio.txt`{{execute}}
 
 This will do something different to the terminal than you've experienced 
-before. You can use the directional arrow on your keyboard ⇩ to scroll 
-downwards through the file. Tap the ⇩ arrow until you reach the end of the 
-file.  You will be able to see you've reached the end when you see at the 
-bottom of the screen:
+before.  You can press the down arrow ⇩ on your keyboard to scroll downwards
+through the file.  Tap the down arrow ⇩ until you reach the end of the file.
+You will be able to see you've reached the end when you see at the bottom of
+the screen:
  
  `(END)`
  
-You can also use the ⇧ to scroll up through the file.
+You can also press the up arrow key ⇧ to scroll up through the file.
 
 When you feel comfortable scrolling up and down use 
 
