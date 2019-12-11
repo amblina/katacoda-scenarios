@@ -49,12 +49,7 @@ Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
 
 It is a shorter version of the man page and it just prints it to screen which 
 can be very convenient.  Help text can be pretty comprehensive like it is here 
-but it can also be just usage instructions so just something like this:
-
-```
-Usage: ls [OPTION]... [FILE]...
-List information about the FILEs (the current directory by default).
-```
+but it can just contain simple usage instructions.
 
 Almost all software installed on your machine will have a `man page`.  However,
 if there is no manual for a command line tool, using the `--help` option will
