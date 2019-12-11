@@ -55,7 +55,8 @@ You also learned in the previous section about the shortcut `..` which means
 
 If you want to create your directory in a very specific place in your 
 filesystem, such that it will create it there no matter where you are currently 
-in the filesystem, you can specify the *absolute* path.
+in the filesystem, you can specify the *absolute* path. Absolute paths always
+start with a forward-slash `/`.
 
 `mkdir /home/scrapbook/tutorial/test_folder/new_folder`{{execute}}
 
