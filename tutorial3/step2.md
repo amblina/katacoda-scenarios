@@ -1,13 +1,6 @@
 The vast majority of software comes with a **man page** - a manual to explain
 how to run the software.
 
-Now check out the [man page](https://en.wikipedia.org/wiki/Man_page) for `ls`.
-You will first see sections called `NAME`, `SYNOPSIS`, `DESCRIPTION`.  Most 
-programs will have these sections filled out describing what the program is and 
-how to use the software.
-
-This manual can be accessed by running `man`.
-
 First let's try running `man` with no arguments:
 
 `man`{{execute}}
