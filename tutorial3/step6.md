@@ -36,7 +36,7 @@ The command line interpreter, `bash`, didn't know what to do with this command
  CONVENTION | MEANING | EXAMPLE
  -----------|---------|---------
  Square brackets `[]`| Optional: An argument can be used or left out| `ls [PATH]`
- Elipsis ...`|One of more arguments can be added| `mkdir PATH...`
+ Ellipsis `...`|One of more arguments can be added| `mkdir PATH...`
  All caps| Using capital letters to indicate placeholders | `mkdir PATH`
  angle brackets `<>`| Indicate placeholders | `mkdir <PATH>`
  
@@ -75,7 +75,7 @@ AUTHOR
     </details>
     <details>
         <summary>Answer</summary>
-            Yes - the elipsis after NAME suggests you can.
+            Yes - the ellipsis after NAME suggests you can.
     </details>
 2) Do you think this command will work given no name?
     <details>
