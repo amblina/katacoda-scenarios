@@ -1,5 +1,5 @@
 An important aspect of finding and reading help files on command line are 
-conventions. These can be contradictary and sometimes unintuitive when you first
+conventions. These can be contradictory and sometimes unintuitive when you first
 start out. However, with time they'll become second nature.
 
 At the start of this tutorial I described the convention I was going to use: 
