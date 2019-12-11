@@ -40,17 +40,17 @@ Let's check out the first two commands given in the
             SUMMARY OF LESS COMMANDS
             
 Commands marked with * may be preceded by a number, N.
-Notes in parentheses indicate the behaviour if N is given.
+Notes in parentheses indicate the behavior if N is given.
 A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
 
 --------
 
                     MOVING
 
-e ^E j ^N CR    *   Forward one line (or N lines).
-y ^Y k ^K ^P    *   Backward one line (or N lines)
-f ^F ^V SPACE   *   Forward one window (or N lines)
-b ^B ESC-V      *   Backward on window (or N lines)
+e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+b  ^B  ESC-v      *  Backward one window (or N lines).
 ```
 
 Let's interpret these together and try them out on the ada lovelace file.  
