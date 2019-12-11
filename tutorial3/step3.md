@@ -19,7 +19,7 @@ SYNOPSIS
     ls [OPTION]... [FILE]...
 ```
 
-This is saying that `ls` takes optional arguments (`OPTIONS`) and a filepath 
+This is saying that `ls` takes optional arguments (`OPTION`) and a filepath
 (`FILE`). 
 
 The square brackets mean that both `OPTION` and `FILE` are both 
