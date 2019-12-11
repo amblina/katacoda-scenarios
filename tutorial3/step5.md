@@ -56,10 +56,9 @@ Usage: ls [OPTION]... [FILE]...
 List information about the FILEs (the current directory by default).
 ```
 
-Almost all software installed on your machine will have a `man page` on a 
-unix or unix-like system.  However, if there is no manual for a command line 
-tool adding `--help` to the command is often a good idea as it can  bring up 
-help info.
+Almost all software installed on your machine will have a `man page`.  However,
+if there is no manual for a command line tool, using the `--help` option will
+often display some help info.
 
 While we are trying out wacky commands, try running the `man` command for a 
 piece of software that doesn't exist:
