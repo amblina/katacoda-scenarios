@@ -29,7 +29,7 @@ Now if you `ls` the `test_folder` you will find `new_folder`.
 #### Relative vs absolute paths
 
 So now you know that when you create a new folder with `mkdir` you are not only 
-saying "create a new folder with this name" - you are specifying *WHERE* that 
+saying "create a new folder with this name" - you are specifying *where* that
 folder should be i.e. "Create a new folder with this name in this location".
 
 This is a good time to introduce the idea of **relative** and **absolute** 
