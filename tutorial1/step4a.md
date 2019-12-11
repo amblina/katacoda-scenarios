@@ -31,7 +31,7 @@ Now lets check where we are, then **c**hange **d**irectory into `step3`!
 Now if you run `ls`{{execute}} in this folder you'll see that it's empty -
 this is unsurprising - we just created it.
 
-Now let's use *cd* to go back to where we were before:
+Now let's use `cd` to go back to where we were before:
 
 `cd /home/scrapbook/tutorial`{{execute}}
 
