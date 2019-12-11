@@ -10,7 +10,7 @@ This is done with a command `ls` which lists the contents of a directory.
 
 ``ls``{{execute}}
 
-Q: You will see the word ``docker`` displayed why?
+Q: You will see the word ``docker`` displayed, why?
 
 A: This directory contains an item (in this case a directory) called docker.
 
