@@ -31,7 +31,7 @@ program works: the `--help` argument.
 **Note:** There is not always a `--help` option but lots of helpful developers 
 have added them.
 
-`ls --help`
+`ls --help`{{execute}}
 
 This should print out:
 
