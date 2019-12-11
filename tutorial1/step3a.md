@@ -62,11 +62,10 @@ What happens when you try and create a folder called "My Documents" like this?
     <summary>Answer</summary>
        It creates two folders called "Documents" and "My". If you wanted to create 
        a folder called "My Documents" you would have to write a command that 
-       `mkdir` would not interpret as two separate folders:
+       `mkdir` would not interpret as two separate folders. We do this with
+       quotation marks:
        
-``mkdir "My Documents"``
-   
-   We do this with quotation marks.
+``mkdir "My Documents"``   
 </details>
 
 _____
