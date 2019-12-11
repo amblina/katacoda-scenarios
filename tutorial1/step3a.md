@@ -65,7 +65,7 @@ What happens when you try and create a folder called "My Documents" like this?
        `mkdir` would not interpret as two separate folders. We do this with
        quotation marks:
        
-``mkdir "My Documents"``   
+``mkdir "My Documents"``
 </details>
 
 _____
