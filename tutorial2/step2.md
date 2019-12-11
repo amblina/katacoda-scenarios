@@ -34,11 +34,11 @@ The two main sections we are going to look at are the first two sections:
 #### MOVING in less
 
 Let's check out the first two commands given in the 
-`MOVING SECTION` along with the help intro.  
+`MOVING` section along with the help intro.
 
 ```
             SUMMARY OF LESS COMMANDS
-            
+
 Commands marked with * may be preceded by a number, N.
 Notes in parentheses indicate the behavior if N is given.
 A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
@@ -77,7 +77,7 @@ first part of the help:
 
 ```
             SUMMARY OF LESS COMMANDS
-            
+
 Commands marked with * may be preceded by a number, N.
 ```
 Commands marked with the star can be changed from their default behaviour by 
@@ -86,7 +86,7 @@ typing a number (N) before typing the command e.g. typing `5` THEN `e`.  The
  increases how many lines you're moving forward in the file:
  
 ```
-e ^E j ^N CR    *   Forward one line (or N lines).
+e  ^E  j  ^N  CR  *  Forward one line (or N lines).
 ```
 
 `5e`{{execute}}
@@ -98,7 +98,7 @@ Using this knowledge try and look back at the help file:
 
 `h`{{execute}}
 
-and try out other `MOVEMENT` commands.
+and try out other `MOVING` commands.
 
 ________
 **Tasks**
@@ -106,8 +106,8 @@ ________
 Try out the following commands:
 
 ```
-f ^F ^V SPACE   *   Forward one window (or N lines)
-b ^B ESC-V      *   Backward on window (or N lines)
+f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+b  ^B  ESC-v      *  Backward one window (or N lines).
 ```
 
 so:
