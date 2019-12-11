@@ -63,10 +63,10 @@ forward (down) or backward (up) in a file. Let's try that out:
 `y`{{execute}}
 
 You should see the file move forward then backward by one line.  The other 
-alternatives should also work for example '^E'.  
+alternatives should also work for example `^E`.
 
 **Remember** according to the 
-beginning of the help file '^' stands for the `ctrl` key. So to move forward 
+beginning of the help file `^` stands for the `ctrl` key. So to move forward
 one line you would need press `ctrl` and the `E` key on your keyboard at the 
 same time.  This can also be written as: `ctrl+e`, `ctrl+E`, 
 `ctrl-e` or `ctrl-E`.
