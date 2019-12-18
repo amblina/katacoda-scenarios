@@ -12,7 +12,7 @@ have an idea of what you can do with it, how to open and view
 its contents or how to edit the file.
 
 A **CSV** is often stored in a file with the file extension
-`.csv`. They are used to store the tables, each column in the
+`.csv`. They are used to store tables, each column in the
 table is separated by a comma.  The first line often has
 the labels for each of the columns.
 
