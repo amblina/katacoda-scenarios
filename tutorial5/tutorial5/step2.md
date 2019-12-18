@@ -11,7 +11,7 @@ We have also covered file redirection
 * `>>` to append the result of a command to a file
 * `|` to *pipe* the result of a command to a new command
 
-If you are unsure on these commands, please revisit tutorial 4!
+If you are unsure on these commands, please revisit tutorial 4 or check out their **man** pages!
 
 Let's take a look at `parks.csv`
 
@@ -20,7 +20,7 @@ First let's see what is in our **working directory**:
 `ls`{{execute}}
 
 Next, let's take a look at `parks.csv` by printing it to the
-screen:
+screen using `cat`:
 
 `cat parks.csv`{{execute}}
 
