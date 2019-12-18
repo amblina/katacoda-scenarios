@@ -1,6 +1,6 @@
 In this tutorial we will be learning some small commands to make
-dealing with large csv files easier!  We won't be covering all
-the ways these commands can be used but there will be enough to
+dealing with large csv table files (comma-separated value) files easier!  We won't be covering 
+all the ways these commands can be used but there will be enough to
 get started!
 
 
@@ -15,6 +15,10 @@ Always try to type these commands
 yourself as this will make it easier to get the hang of it!
 
 We will be covering:
+
+* A brief introduction to **file formats** and **file extensions**
+* What is a **CSV** and what do they look like?
+* How to subset a **CSV** (only show select columns or rows)
 
 |Command|Description|
 |-------|----------|
