@@ -30,7 +30,7 @@ As we can see the first line tells us what is in each column.
 Park Code,Park Name,State,Acres,Latitude,Longitude
 ```
 
-Another name for "column" is **field**. This list of names that
+Another name for "column" is **field**. This is a list of names that
 label each of these **fields** are known as **field names**.
 
 Challenges
