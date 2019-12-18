@@ -43,6 +43,7 @@ Challenges
 </details>
 
 2. Print to screen only the **field names** of `parks.csv`
+
 <details>
     <summary>Hint</summary>
         Remember that the **field names** are found in the
@@ -63,6 +64,7 @@ Challenges
         `head -n 1 parks.csv`{{execute}}
 </details>
 
+<!--
 3. Print how many words there are in *fields names* of `parks.csv` -
     **Bonus** try and do it in one command!
 
@@ -89,6 +91,6 @@ Challenges
     <summary>Answer</summary>
         `head -n 1 parks.csv | wc -w`{{execute}}
 </details>
-
+-->
 
 
