@@ -1,34 +1,47 @@
-To understand `cut` - let's go read the man page!
+Understanding how to filter which columns we see or how many rows is very useful.  
+However, what is often even more useful is the ability to only pull out lines from a
+ table that contain a certain value.
+ 
+In this tutorial we will be learning how to use **`grep`**. This stands for "Global 
+Regular Expression and Print". You will literally never need to know that it stands for 
+that - I looked it up to double check!  The important this to understand is that the 
+`grep` tool will print out any row that contains a particular series of characters 
+just like using `Ctrl+F` or `Cmd+F`!
 
-`man cut`{{execute}}
+Example:
 
-Right, the important sections to read are the **synopsis** which tells
-you how to run the command.
+`grep <search term> <file path>`
 
-```
-cut OPTION... [FILE]...
-```
+Now let's do a similar search on our table `parks.csv`.  Let's take a look at all 
+the records that have "Canyon" in their name:
 
-As we have discussed before, this means that in order to run the command
-you need to specify some options (and you can specify multiple options
-hence the "...") and then you specify a path to a file (though this is
-optional).  The optional file path indicates that if you want you can
-**pipe** `|` an input file directly into the command e.g. by using `cat`.
+`grep 'Canyon' parks.csv`{{execute}}
 
+You should see 5 records now!
 
-Now these are the two options that we will look at today:
+###Challenges
 
-```
--d, --delimiter=DELIM
-            use DELIM instead of TAB for field delimiter
+1. Find all the national parks in Utah, USA from the `parks.csv` table
+<details>
+    <summary>Hint</summary>
+        Utah's code in the table is "UT"
+</details>
+<details>
+    <summary>Answer</summary>
+        `grep 'UT' parks.csv`{{execute}}
+</details>
 
--f, --fields=LIST
-            select only these fields;  also print any line that contains
-            no delimiter character, unless the -s option is specified
- ```
-
-If you remember before a CSV stands for comma-**separated**-values.  This
-means that each value is separated or **delimited** by a comma ','. The
-`-f` option shows that you can select particular columns or 'fields'.
-Unfortunately the help file isn't very helpful on *how* to specify which
-fields you want but this is where this tutorial comes in!
+2. Find the number of records in the national parks table in Utah in one command
+<details>
+    <summary>How do you count how many lines there are?</summary>
+        `wc -l` will count how many lines there are.
+</details>
+<details>
+    <summary>How do you pipe the output of one command into the next command?</summary>
+        You use pipe i.e. the `|` symbol e.g. `head parks.csv | wc -l` will run the 
+        `wc` command on the output of the `head` command.
+</details>
+<details>
+    <summary>Answer</summary>
+        `grep 'UT' parks.csv | wc -l`{{execute}}
+</details>
