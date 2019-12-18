@@ -43,7 +43,6 @@ Challenges
 </details>
 
 2. Print to screen only the **field names** of `parks.csv`
-
 <details>
     <summary>Hint</summary>
         Remember that the **field names** are found in the
