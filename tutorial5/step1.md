@@ -4,8 +4,8 @@ used to store a table.
 
 A **file format** is a way of describing the way that a file is
 structured.  The format of a file is often (but not always!)
-indicated by a **file extension** e.g. for an MS Word Document
-`.docx` or a plain text file `.txt`.
+indicated by a **file extension** e.g. for an MS Word Document the file name ends with
+`.docx` e.g. `my_story.docx`
 
 It's useful to know the format of a file because then you'll
 have an idea of what you can do with it, how to open and view
