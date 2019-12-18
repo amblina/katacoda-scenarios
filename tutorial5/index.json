@@ -28,6 +28,14 @@
       {
         "title": "Step 4: Redirecting output",
         "text": "step4.md"
+      },
+      {
+        "title": "Step 5: Filtering for particular words",
+        "text": "step5.md"
+      },
+      {
+        "title": "Step 5.5: A useful extension",
+        "text": "step5.5.md"
       }
     ],
     "intro": {
