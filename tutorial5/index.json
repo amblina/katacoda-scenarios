@@ -1,6 +1,6 @@
 {
-  "title": "Tutorial 5: EARLY ACCESS - Working with CSVs",
-  "description": "Bioinfo.",
+  "title": "Tutorial 5: (EARLY ACCESS) - Working with CSVs",
+  "description": "Some simple exercises to learn simple subsetting and filtering of CSV table files.",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
@@ -18,7 +18,7 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2: Reading a bit of a file",
+        "title": "Step 2: What can we do with what we already know?",
         "text": "step2.md"
       },
       {
