@@ -1,5 +1,5 @@
-The vast majority of software comes with a **man page** - a manual to explain
-how to run the software.
+The vast majority of software comes with a **[man page](https://en.wikipedia.org/wiki/Man_page)** -
+a manual to explain how to run the software.
 
 First let's try running `man` with no arguments:
 
