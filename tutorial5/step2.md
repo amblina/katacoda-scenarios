@@ -91,5 +91,3 @@ Challenges
         `head -n 1 parks.csv | wc -w`{{execute}}
 </details>
 -->
-
-

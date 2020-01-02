@@ -84,11 +84,3 @@ this question in your mind!
     <summary>Answer</summary>
     `cat sample.fastq sample.fastq`{{execute}}
 </details>
-
-
-
-
-
-
-
-

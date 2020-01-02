@@ -53,4 +53,3 @@ allowed? What defaults does the software use?
 
 Read the **man**ual A.K.A the 
 [man page](https://en.wikipedia.org/wiki/Man_page)!
-

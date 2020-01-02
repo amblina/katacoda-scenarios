@@ -65,6 +65,3 @@ be able to tell this because you will see this error message no matter where
 you try and run the command:
 
 `mkdir: cannot create directory '/home/scrapbook/tutorial/test_folder/new_folder': File exists`
-
-
-
