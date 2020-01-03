@@ -114,4 +114,3 @@ so:
 
 `f`{{execute}} to move forward one screen (or page)
 `b`{{execute}} to move backwards one screen (or page)
-

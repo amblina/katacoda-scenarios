@@ -42,6 +42,3 @@ Here are some ideas!
 * `hello world`{{execute}}
 * `qwerty`{{execute}}
 * `123`{{execute}}
-
-
-
