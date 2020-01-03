@@ -29,7 +29,7 @@ Now if you `ls` the `test_folder` you will find `new_folder`.
 #### Relative vs absolute paths
 
 So now you know that when you create a new folder with `mkdir` you are not only 
-saying "create a new folder with this name" - you are specifying *WHERE* that 
+saying "create a new folder with this name" - you are specifying *where* that
 folder should be i.e. "Create a new folder with this name in this location".
 
 This is a good time to introduce the idea of **relative** and **absolute** 
@@ -55,7 +55,8 @@ You also learned in the previous section about the shortcut `..` which means
 
 If you want to create your directory in a very specific place in your 
 filesystem, such that it will create it there no matter where you are currently 
-in the filesystem, you can specify the *absolute* path.
+in the filesystem, you can specify the *absolute* path. Absolute paths always
+start with a forward-slash `/`.
 
 `mkdir /home/scrapbook/tutorial/test_folder/new_folder`{{execute}}
 

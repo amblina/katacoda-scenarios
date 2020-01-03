@@ -32,6 +32,7 @@ OK, so the description matches what we know, that file sizes are printed in
 a human readable format but it has two other interesting things:
 
 1) This option only works when you use `-l`
+
 2) There is an alternative way of calling this functionality: `--human-readable`
 
 Let's test this out - let's exit the man page:

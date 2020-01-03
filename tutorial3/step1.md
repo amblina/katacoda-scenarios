@@ -3,7 +3,7 @@ how to move through the file and search for particular words.  We were able to
 find out how to use `less` by using the help that was packaged with the software.
 
 Help is packaged up with almost all commands - you just need to 
-find out where and how to read it.  This is what this tutorial will be covering.
+find out where and how to read it.  That is what this tutorial will be covering.
 
 This tutorial will be covering what to do when you're faced with unfamiliar 
 commands.  First though, let's review what we've learned from the commands 

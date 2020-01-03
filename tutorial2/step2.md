@@ -15,9 +15,9 @@ Ok, now you're in the file type:
 
 ``h``{{execute}}
 
-Like almost everything in unix, this software comes with help - you just need 
-to know how to access it and work out how to interpret it - this is something 
-you will gain a feel for over time.
+Like almost all commands, this software comes with help - you just need to know
+how to access it and work out how to interpret it - this is something you will
+gain a feel for over time.
 
 The first thing the help file explains is how to read the help - we'll touch on 
 that in a minute.  
@@ -34,23 +34,23 @@ The two main sections we are going to look at are the first two sections:
 #### MOVING in less
 
 Let's check out the first two commands given in the 
-`MOVING SECTION` along with the help intro.  
+`MOVING` section along with the help intro.
 
 ```
             SUMMARY OF LESS COMMANDS
-            
+
 Commands marked with * may be preceded by a number, N.
-Notes in parentheses indicate the behaviour if N is given.
+Notes in parentheses indicate the behavior if N is given.
 A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
 
 --------
 
                     MOVING
 
-e ^E j ^N CR    *   Forward one line (or N lines).
-y ^Y k ^K ^P    *   Backward one line (or N lines)
-f ^F ^V SPACE   *   Forward one window (or N lines)
-b ^B ESC-V      *   Backward on window (or N lines)
+e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+b  ^B  ESC-v      *  Backward one window (or N lines).
 ```
 
 Let's interpret these together and try them out on the ada lovelace file.  
@@ -63,10 +63,10 @@ forward (down) or backward (up) in a file. Let's try that out:
 `y`{{execute}}
 
 You should see the file move forward then backward by one line.  The other 
-alternatives should also work for example '^E'.  
+alternatives should also work for example `^E`.
 
 **Remember** according to the 
-beginning of the help file '^' stands for the `ctrl` key. So to move forward 
+beginning of the help file `^` stands for the `ctrl` key. So to move forward
 one line you would need press `ctrl` and the `E` key on your keyboard at the 
 same time.  This can also be written as: `ctrl+e`, `ctrl+E`, 
 `ctrl-e` or `ctrl-E`.
@@ -77,7 +77,7 @@ first part of the help:
 
 ```
             SUMMARY OF LESS COMMANDS
-            
+
 Commands marked with * may be preceded by a number, N.
 ```
 Commands marked with the star can be changed from their default behaviour by 
@@ -86,7 +86,7 @@ typing a number (N) before typing the command e.g. typing `5` THEN `e`.  The
  increases how many lines you're moving forward in the file:
  
 ```
-e ^E j ^N CR    *   Forward one line (or N lines).
+e  ^E  j  ^N  CR  *  Forward one line (or N lines).
 ```
 
 `5e`{{execute}}
@@ -98,7 +98,7 @@ Using this knowledge try and look back at the help file:
 
 `h`{{execute}}
 
-and try out other `MOVEMENT` commands.
+and try out other `MOVING` commands.
 
 ________
 **Tasks**
@@ -106,8 +106,8 @@ ________
 Try out the following commands:
 
 ```
-f ^F ^V SPACE   *   Forward one window (or N lines)
-b ^B ESC-V      *   Backward on window (or N lines)
+f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+b  ^B  ESC-v      *  Backward one window (or N lines).
 ```
 
 so:

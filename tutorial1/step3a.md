@@ -10,7 +10,7 @@ This is done with a command `ls` which lists the contents of a directory.
 
 ``ls``{{execute}}
 
-Q: You will see the word ``docker`` displayed why?
+Q: You will see the word ``docker`` displayed, why?
 
 A: This directory contains an item (in this case a directory) called docker.
 
@@ -62,11 +62,10 @@ What happens when you try and create a folder called "My Documents" like this?
     <summary>Answer</summary>
        It creates two folders called "Documents" and "My". If you wanted to create 
        a folder called "My Documents" you would have to write a command that 
-       `mkdir` would not interpret as two separate folders:
+       `mkdir` would not interpret as two separate folders. We do this with
+       quotation marks:
        
 ``mkdir "My Documents"``
-   
-   We do this with quotation marks.
 </details>
 
 _____

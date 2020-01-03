@@ -1,5 +1,5 @@
 An important aspect of finding and reading help files on command line are 
-conventions. These can be contradictary and sometimes unintuitive when you first
+conventions. These can be contradictory and sometimes unintuitive when you first
 start out. However, with time they'll become second nature.
 
 At the start of this tutorial I described the convention I was going to use: 
@@ -36,9 +36,9 @@ The command line interpreter, `bash`, didn't know what to do with this command
  CONVENTION | MEANING | EXAMPLE
  -----------|---------|---------
  Square brackets `[]`| Optional: An argument can be used or left out| `ls [PATH]`
- Elipsis ...`|One of more arguments can be added| `mkdir PATH...`
+ Ellipsis `...`|One of more arguments can be added| `mkdir PATH...`
  All caps| Using capital letters to indicate placeholders | `mkdir PATH`
- angle brackets `<>`| Indicate placeholders | `mkdir <PATH>`
+ Angle brackets `<>`| Indicate placeholders | `mkdir <path>`
  
  These are just some examples - as you can see from the table, these 
  conventions can be combined or contradict each other but with experience
@@ -75,7 +75,7 @@ AUTHOR
     </details>
     <details>
         <summary>Answer</summary>
-            Yes - the elipsis after NAME suggests you can.
+            Yes - the ellipsis after NAME suggests you can.
     </details>
 2) Do you think this command will work given no name?
     <details>

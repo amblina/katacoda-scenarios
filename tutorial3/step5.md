@@ -31,7 +31,7 @@ program works: the `--help` argument.
 **Note:** There is not always a `--help` option but lots of helpful developers 
 have added them.
 
-`ls --help`
+`ls --help`{{execute}}
 
 This should print out:
 
@@ -49,17 +49,11 @@ Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
 
 It is a shorter version of the man page and it just prints it to screen which 
 can be very convenient.  Help text can be pretty comprehensive like it is here 
-but it can also be just usage instructions so just something like this:
+but it can just contain simple usage instructions.
 
-```
-Usage: ls [OPTION]... [FILE]...
-List information about the FILEs (the current directory by default).
-```
-
-Almost all software installed on your machine will have a `man page` on a 
-unix or unix-like system.  However, if there is no manual for a command line 
-tool adding `--help` to the command is often a good idea as it can  bring up 
-help info.
+Almost all software installed on your machine will have a `man page`.  However,
+if there is no manual for a command line tool, using the `--help` option will
+often display some help info.
 
 While we are trying out wacky commands, try running the `man` command for a 
 piece of software that doesn't exist:
