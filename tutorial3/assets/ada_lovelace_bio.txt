@@ -1,6 +1,6 @@
 A gifted mathematician, Ada Lovelace is considered to have written instructions for the first computer program in the mid-1800s.
 Synopsis
-The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace—better known as "Ada Lovelace"—was born in London on December 10, 1815. Ada showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Ada is considered the first computer programmer. Ada died on November 27, 1852.
+The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace-better known as "Ada Lovelace"-was born in London on December 10, 1815. Ada showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Ada is considered the first computer programmer. Ada died on November 27, 1852.
 
 Early Years
 Ada Lovelace, born as Augusta Ada Byron, was the only legitimate child of the famous poet Lord George Gordon Byron. Lord Byron's marriage to Ada's mother, Lady Anne Isabella Milbanke Byron, was not a happy one. Lady Byron separated from her husband only weeks after their daughter was born. A few months later, Lord Byron left England, and Ada never saw her father again. He died in Greece when Ada was 8 years old.
